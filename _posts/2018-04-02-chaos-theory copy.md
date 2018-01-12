@@ -7,6 +7,8 @@ categories: jekyll update
 
 ### Introduction
 
+Scheduled for April 2, 2018
+
 Presenter: Torben
 
 ### Follow-Up

@@ -7,6 +7,8 @@ categories: jekyll update
 
 ### Introduction
 
+Scheduled for March 5, 2018
+
 Presenter: Mick
 
 ### Follow-Up
