@@ -14,7 +14,7 @@ Presenter: Pam L.
 * [Presentation](/assets/present/reduce-reuse-recycle-resources.pdf) 
 * [Presentation](/assets/present/reduce-reuse-recycle-2.pdf)
 
-Brant provided this info on [Repair Cafes, iFixIt, Tool Lending Libraries](/assets/present/repair-cafes.pdf)
+Brant provided some info on [Repair Cafes, iFixIt, and Tool Lending Libraries](/assets/present/repair-cafes.pdf)
 
 Jim also had a comment and shared this link: [http://www.atlasobscura.com/articles/oxyrhynchus-ancient-egypts-most-literate-trash-heap](http://www.atlasobscura.com/articles/oxyrhynchus-ancient-egypts-most-literate-trash-heap)
 
