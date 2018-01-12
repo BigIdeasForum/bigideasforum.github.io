@@ -5,8 +5,6 @@ date:   2017-11-01 21:00:07 -0700
 categories: jekyll update
 ---
 
-Presenter: Brant
-
 ### Introduction
 
 As we spend more and more time online, we often get lost in the enormous amount of data available. However, there’s help. 
@@ -15,5 +13,8 @@ Following the philosophy that we should let our computers do all the mundane and
 
 Whether a student, working, or retired, this presentation and discussion will be of great value to you - every day.
 
+Presenter: Brant
+
 ### Follow-Up
 
+* [Presentation](/assets/present/productivity.pdf) 

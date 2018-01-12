@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Origami Revolution"
+title:  "The Origami Revolution"
 date:   2017-09-25 21:00:07 -0700
 categories: jekyll update
 ---
@@ -13,3 +13,4 @@ Presenter: Lisa T.
 
 ### Follow-Up
 
+* [Presentation](/assets/present/origami-revolution.pdf) 
