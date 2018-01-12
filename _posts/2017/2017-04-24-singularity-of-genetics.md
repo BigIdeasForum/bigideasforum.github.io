@@ -9,8 +9,8 @@ categories: jekyll update
 
 In this presentation, we will take a quick look at how far genetics have come in the past few years. Join this discussion about the possible aspects of the fascinating field of genetics.  
 
-Presenter: Torben (was this presented???)
+Presenter: Torben
 
 ### Follow-Up
 
-
+* [Presentation](/assets/present/singularity-of-genetics.pdf) 

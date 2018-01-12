@@ -11,13 +11,13 @@ Presenter: Torben
 
 ### Follow-Up
 
-The following TED talks were referenced:  https://www.TED.com/talks
+The following TED talks were referenced:  [https://www.TED.com/talks](https://www.TED.com/talks)
 
-The one we showed was Cathy O Neil - "The era of blind faith” (13 min)
+The one we showed was Cathy O Neil - ["The era of blind faith"](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end) (13 min)
  
-The ones I would recommend can be found by searching for speaker name"
+Other talks that are highly recommended:
 
-* Joy Buolamwini: "How I’m fighting bias" 
-* Kevin Slavin: "Shaping the world"
-* Andreas Ekström - “Morals”
-* Amy Webb: “Dating" (very entertaining)
+* Joy Buolamwini: ["How I’m fighting bias in algorithms"](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
+* Kevin Slavin: ["How algorithms shape our world"](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
+* Andreas Ekström - [“The moral bias behind your search results”](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
+* Amy Webb: [“How I hacked online dating"](https://www.ted.com/talks/amy_webb_how_i_hacked_online_dating) (very entertaining)
