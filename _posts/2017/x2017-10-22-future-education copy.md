@@ -19,10 +19,10 @@ Presenter: Sharon
 
 YouTube Videos that were viewed:
 
-* [The School of the Future – There’s No Limit to What School Can Be](https://www.youtube.com/watch?v=m8HkIGdHKcc) - 5 Technologies That Will Change the Classroom
-* [Technology in Education – A Future Classroom](https://www.youtube.com/watch?v=uZ73ZsBkcus)
+* [The School of the Future – There’s No Limit to What School Can Be](The School of the Future) - 5 Technologies That Will Change the Classroom
+* [Technology in Education – A Future Classroom](Technology in Education)
 * [Holograms Add Dimension to Learning](https://www.youtube.com/watch?v=5WU1U3wttNc)
-* [This Virtual Lab Will Revolutionize Science Class](https://www.youtube.com/watch?v=uZ73ZsBkcus) - Michael Bodekaer
+* [This Virtual Lab Will Revolutionize Science Class](This Virtual Lab Will Revolutionize Science Class) - Michael Bodekaer
 
 Additional Background from YouTube
 
