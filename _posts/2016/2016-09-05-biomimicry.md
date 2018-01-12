@@ -10,3 +10,5 @@ categories: jekyll update
 Presenter: Pam L.
 
 ### Follow-Up
+
+* [Presentation](/assets/present/biomimicry.pdf) 
