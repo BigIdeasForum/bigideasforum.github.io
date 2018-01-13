@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Blockchain"
 date:   2016-10-10 21:00:07 -0700
 categories: jekyll update

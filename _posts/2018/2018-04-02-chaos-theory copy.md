@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  "Future - Chaos Theory"
-date:   2018-01-10 21:00:07 -0700
+date:   2018-04-02 21:00:07 -0700
 categories: jekyll update
 ---
 

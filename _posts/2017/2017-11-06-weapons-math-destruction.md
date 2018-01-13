@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Weapons of Math Destruction"
 date:   2017-11-06 21:00:07 -0700
 categories: jekyll update

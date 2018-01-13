@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Living on Other Planets"
 date:   2017-05-22 21:00:07 -0700
 categories: jekyll update

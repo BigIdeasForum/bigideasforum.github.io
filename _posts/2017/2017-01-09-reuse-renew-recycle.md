@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Reuse/Renew/Recycle"
 date:   2017-01-09 21:00:07 -0700
 categories: jekyll update

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Singularity of Genetics"
 date:   2017-05-08 21:00:07 -0700
 categories: jekyll update

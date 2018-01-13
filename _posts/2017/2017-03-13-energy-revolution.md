@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Energy Revolution"
 date:    2017-03-13 21:00:07 -0700
 categories: jekyll update
----a
+---
 
 ### Introduction
 
