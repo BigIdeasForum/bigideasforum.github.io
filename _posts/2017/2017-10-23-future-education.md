@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Future of Education"
-date:   2017-10-22 21:00:07 -0700
+date:   2017-10-23 21:00:07 -0700
 categories: jekyll update
 ---
 
@@ -19,10 +19,10 @@ Presenter: Sharon
 
 YouTube Videos that were viewed:
 
-* [The School of the Future – There’s No Limit to What School Can Be](The School of the Future) - 5 Technologies That Will Change the Classroom
-* [Technology in Education – A Future Classroom](Technology in Education)
+* [The School of the Future – There’s No Limit to What School Can Be](https://www.youtube.com/watch?v=m8HkIGdHKcc) - 5 Technologies That Will Change the Classroom
+* [Technology in Education – A Future Classroom](https://www.youtube.com/watch?v=uZ73ZsBkcus)
 * [Holograms Add Dimension to Learning](https://www.youtube.com/watch?v=5WU1U3wttNc)
-* [This Virtual Lab Will Revolutionize Science Class](This Virtual Lab Will Revolutionize Science Class) - Michael Bodekaer
+* [This Virtual Lab Will Revolutionize Science Class](https://www.youtube.com/watch?v=uZ73ZsBkcus) - Michael Bodekaer
 
 Additional Background from YouTube
 

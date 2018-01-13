@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Surveillance Society"
-date:    2017-01-04 21:00:07 -0700
+date:    2017-02-27 21:00:07 -0700
 categories: jekyll update
 ---
 
