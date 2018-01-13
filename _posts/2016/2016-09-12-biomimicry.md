@@ -1,7 +1,7 @@
 ---
 title:  "Biomimicry"
 date:   2016-09-12 21:00:07 -0700
-categories: jekyll update
+categories: jekyll update PamL
 ---
 
 ### Introduction

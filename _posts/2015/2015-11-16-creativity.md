@@ -1,7 +1,7 @@
 ---
 title:  "Creativity"
 date:   2015-12-28 21:00:07 -0700
-categories: jekyll update
+categories: jekyll update Karen
 ---
 
 ### Introduction
