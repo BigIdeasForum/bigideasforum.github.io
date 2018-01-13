@@ -7,7 +7,7 @@ categories: jekyll update
 
 ### Introduction
 
-Presenter: ??
+Presenter: Torben
 
 ### Follow-Up
 

@@ -11,7 +11,7 @@ Hollywood’s dream about populating other planets in our solar system, and poss
 
 There are still many obstacles to overcome and we will discuss these dimensions about space traveling and living on other planets. Even if you do not plan on going, join us for an interesting discussion.
 
-Presenter: ??
+Presenter: Mick
 
 ### Follow-Up
 
