@@ -1,7 +1,7 @@
 ---
 title:  "The Surveillance Society"
 date:    2017-02-27 21:00:07 -0700
-categories: jekyll update Gary
+categories: Gary
 ---
 
 ### Introduction

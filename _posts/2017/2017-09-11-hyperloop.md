@@ -1,7 +1,7 @@
 ---
 title:  "Hyperloop"
 date:   2017-09-11 21:00:07 -0700
-categories: jekyll update Torben
+categories: Torben
 ---
 
 ### Introduction

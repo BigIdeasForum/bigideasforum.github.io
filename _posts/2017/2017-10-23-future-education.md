@@ -1,7 +1,7 @@
 ---
 title:  "The Future of Education"
 date:   2017-10-23 21:00:07 -0700
-categories: jekyll update Sharon
+categories: Sharon
 ---
 
 ### Introduction

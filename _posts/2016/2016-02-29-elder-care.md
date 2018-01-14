@@ -1,7 +1,7 @@
 ---
 title:  "Elder Care"
 date:   2016-02-29 21:00:07 -0700
-categories: jekyll update Connie
+categories: Connie
 ---
 
 ### Introduction
