@@ -12,7 +12,7 @@ Presenter: Connie
 
 ### Follow-Up
 
-* [Presentation](/assets/present/resources-for-eldercare.pdf) 
+* [Presentation](/assets/present/resources-for-eldercare.pdf) (PDF) 
 
 (notes from Pam)
 > Thank you, Connie, for the wonderful resources and information about Elder Care. The numbers of people who will be needing care is truly stunning. I really appreciated seeing your notebook and I now feel inspired to create something for my family’s use. Some of the things that I jotted down to keep in a notebook include:

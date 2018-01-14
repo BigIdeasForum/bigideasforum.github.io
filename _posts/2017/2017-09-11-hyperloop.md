@@ -12,4 +12,4 @@ Presenter: Torben
 
 ### Follow-Up
 
-* [Presentation](/assets/present/hyperloop.pdf) 
+* [Presentation](/assets/present/hyperloop.pdf) (PDF) 

@@ -17,4 +17,4 @@ Presenter: Torben
 
 ### Follow-Up
 
-* [Presentation](/assets/present/swarm-intelligence.pdf) 
+* [Presentation](/assets/present/swarm-intelligence.pdf) (PDF) 

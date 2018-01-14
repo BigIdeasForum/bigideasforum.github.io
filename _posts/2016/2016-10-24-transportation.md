@@ -12,4 +12,4 @@ Presenter: Torben
 
 ### Follow-Up
 
-* [Presentation](/assets/present/driverless-cars.pdf) 
+* [Presentation](/assets/present/driverless-cars.pdf) (PDF) 

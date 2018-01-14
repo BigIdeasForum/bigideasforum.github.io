@@ -14,4 +14,4 @@ Presenter: Pam L.
 
 ### Follow-Up
 
-* [Presentation](/assets/present/biomimicry.pdf) 
+* [Presentation](/assets/present/biomimicry.pdf) (PDF) 

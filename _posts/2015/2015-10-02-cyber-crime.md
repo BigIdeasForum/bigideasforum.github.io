@@ -10,4 +10,4 @@ Presenter: Gary
 
 ### Follow-Up
 
-* [Presentation](/assets/present/future-crimes.pdf) 
+* [Presentation](/assets/present/future-crimes.pdf) (PDF)

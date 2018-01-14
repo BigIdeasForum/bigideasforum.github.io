@@ -12,4 +12,4 @@ Presenter: Brant
 
 ### Follow-Up
 
-* [Presentation](/assets/present/blockchain.pdf) 
+* [Presentation](/assets/present/blockchain.pdf) (PDF) 

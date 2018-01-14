@@ -16,4 +16,4 @@ Presenter: Brant
 
 ### Follow-Up
 
-* [Presentation](/assets/present/productivity.pdf) 
+* [Presentation](/assets/present/productivity.pdf) (PDF) 

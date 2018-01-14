@@ -12,4 +12,4 @@ Presenter: Gary
 
 ### Follow-Up
 
-* [Presentation](/assets/present/brain-mind-interfaces.pdf) 
+* [Presentation](/assets/present/brain-mind-interfaces.pdf) (PDF) 

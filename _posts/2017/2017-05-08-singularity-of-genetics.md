@@ -13,4 +13,4 @@ Presenter: Torben
 
 ### Follow-Up
 
-* [Presentation](/assets/present/singularity-of-genetics.pdf) 
+* [Presentation](/assets/present/singularity-of-genetics.pdf) (PDF) 

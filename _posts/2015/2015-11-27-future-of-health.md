@@ -11,4 +11,4 @@ Presenter: Torben
 
 ### Follow-Up
 
-* [Presentation](/assets/present/future-of-health.pdf) 
+* [Presentation](/assets/present/future-of-health.pdf) (PDF)
