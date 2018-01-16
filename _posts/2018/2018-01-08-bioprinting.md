@@ -14,4 +14,4 @@ Presenter: Torben
 
 ### Follow-Up
 
-* [Presentation](/assets/present/bioprinting.pdf) (PDF) 
+* [Presentation](/assets/present/bioprinting.pdf) (PDF)

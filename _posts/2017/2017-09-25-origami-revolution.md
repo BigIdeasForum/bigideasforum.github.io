@@ -12,4 +12,4 @@ Presenter: Lisa T.
 
 ### Follow-Up
 
-* [Presentation](/assets/present/origami-revolution.pdf) (PDF) 
+* [Presentation](/assets/present/origami-revolution.pdf) (PDF)
