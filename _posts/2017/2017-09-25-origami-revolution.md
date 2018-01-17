@@ -12,4 +12,5 @@ Presenter: Lisa T.
 
 ### Follow-Up
 
+* The PBS show we watched: [“The Origami Revolution”](http://www.dailymotion.com/video/x5yma3d)
 * [Presentation](/assets/present/origami-revolution.pdf) (PDF)
