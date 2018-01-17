@@ -10,6 +10,8 @@ Presenter: Karen
 
 ### Follow-Up
 
+![Collage](assets/Creativity_Collage.jpg)
+
 From Brant:
 
 * The power of music - [“Alive Inside”](http://www.aliveinside.us)

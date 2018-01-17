@@ -6,12 +6,16 @@ categories: Mick
 
 ### Introduction
 
-Hollywood’s dream about populating other planets in our solar system, and possibly beyond, is getting closer. Evidenced by the success of movies like The Martian proves the dream is well and alive in the general population.
+Hollywood's dream about populating other planets in our solar system, and possibly beyond, is getting closer. Evidenced by the success of movies like The Martian proves the dream is well and alive in the general population.
 
-There are still many obstacles to overcome and we will discuss these dimensions about space traveling and living on other planets. Even if you do not plan on going, join us for an interesting discussion.
+But there are many obstacles to overcome, not only related to the “engineering” part of it, but to a high degree related to the “human element.”
+
+We will discuss these dimensions about space traveling and living on other planets. Even if you do not plan on going, join us for an interested discussion.
 
 Presenter: Mick
 
 ### Follow-Up
 
 * [Presentation TBD](/assets/present/tbd.pdf) 
+
+
