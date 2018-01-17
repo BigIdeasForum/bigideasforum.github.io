@@ -10,7 +10,7 @@ Presenter: Karen
 
 ### Follow-Up
 
-![Collage](assets/Creativity_Collage.jpg)
+![Collage](/assets/creativity_collage.jpg)
 
 From Brant:
 

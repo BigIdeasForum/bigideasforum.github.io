@@ -8,7 +8,7 @@ categories: PamL
 
 The epic waste embedded in our daily lives drives many of the era's greatest crises from energy, climate, pollution, clean water and even security and the economy. 
 
-Waste is the one big problem each of us can do something about—in tonight’s program, we will discuss HOW!
+Waste is the one big problem each of us can do something about—in tonight’s program, we will discuss how!
 
 Presenter: Pam L.
 
@@ -19,5 +19,5 @@ Presenter: Pam L.
 
 Brant provided some info on [Repair Cafes, iFixIt, and Tool Lending Libraries](/assets/present/repair-cafes.pdf)
 
-Jim also had a comment and shared this link: [http://www.atlasobscura.com/articles/oxyrhynchus-ancient-egypts-most-literate-trash-heap](http://www.atlasobscura.com/articles/oxyrhynchus-ancient-egypts-most-literate-trash-heap)
+Jim also had a comment and shared this link: [“Oxyrhynchus, Ancient Egypt’s Most Literate Trash Heap”](http://www.atlasobscura.com/articles/oxyrhynchus-ancient-egypts-most-literate-trash-heap)
 

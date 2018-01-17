@@ -17,6 +17,6 @@ Presenter: Dave
 References:
 
 * [Be afraid, be very afraid: the robots are coming and they will destroy our livelihoods](https://www.youtube.com/watch?v=zFx5kq0pB0Y)
-* [How robotics will affect the availability of employment and social benefits](https://www.youtube.com/watch?v=Mt-Hqn9qiDs)
-* [Future Robots: Advanced Robotics Can Change Human Future (Full Documentary) HD](https://www.youtube.com/watch?v=4Bu1eQqREOI)
+* [“How robotics will affect the availability of employment and social benefits”](https://www.youtube.com/watch?v=Mt-Hqn9qiDs)
+* [“Future Robots: Advanced Robotics Can Change Human Future”](https://www.youtube.com/watch?v=4Bu1eQqREOI)
 
