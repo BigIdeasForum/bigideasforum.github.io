@@ -1,6 +1,6 @@
 ---
 title:  "Underwater Colonization"
-date:   2018-03-08 21:00:07 -0700
+date:   2018-03-01 21:00:07 -0700
 categories: Torben 
 synopsis: >
   By 2040, we need to find room on Earth for 9-10 billion people. Space exploration is one option; another is colonizing the oceans.
@@ -20,4 +20,8 @@ Presenter: Torben
 
 ### Follow-Up
 
+Here are the slides from the presentation and discussion on Underwater Colonization - or, as it turned out to be, Ocean Colonization.
 
+If you compare slide 21 (created during the discussion) with slide 22 and 23 (considerations made by experts), you will notice how great this forum is! Enjoy!
+
+* [Presentation](/assets/present/2018/underwater-colonization.pdf) (PDF)
