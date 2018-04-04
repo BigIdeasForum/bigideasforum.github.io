@@ -10,4 +10,4 @@ Presenter: Gary?
 
 ### Follow-Up
 
-* [Presentation (needs conversion to PDF)](/assets/present/surveillance-society.odp) 
+* [Presentation (needs conversion to PDF)](/assets/present/2016/surveillance-society.odp) 

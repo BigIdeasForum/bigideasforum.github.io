@@ -14,8 +14,8 @@ Presenter: Pam L.
 
 ### Follow-Up
 
-* [Presentation](/assets/present/reduce-reuse-recycle-resources.pdf) (PDF) 
-* [Presentation](/assets/present/reduce-reuse-recycle-2.pdf) (PDF)
+* [Presentation](/assets/present/2017/reduce-reuse-recycle-resources.pdf) (PDF) 
+* [Presentation](/assets/present/2017/reduce-reuse-recycle-2.pdf) (PDF)
 
 Brant provided some info on [Repair Cafes, iFixIt, and Tool Lending Libraries](/assets/present/repair-cafes.pdf)
 

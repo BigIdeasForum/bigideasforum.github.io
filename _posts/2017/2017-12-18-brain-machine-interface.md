@@ -2,6 +2,8 @@
 title:  "Brain-Machine Interface"
 date:   2017-12-18 21:00:07 -0700
 categories: Gary
+synopsis: >
+  The ultimate application of AI is to connect the human brain to a hard disk. As we are getting closer to mastering this technologically, are we ready socially?
 ---
 
 ### Introduction
@@ -12,4 +14,4 @@ Presenter: Gary
 
 ### Follow-Up
 
-* [Presentation](/assets/present/brain-mind-interfaces.pdf) (PDF)
+* [Presentation](/assets/present/2017/brain-mind-interfaces.pdf) (PDF)

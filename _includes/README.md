@@ -5,3 +5,8 @@
 * current template is `minima`
 * to edit the template gem: `open $(bundle show minima)`
 * I cloned the footer.html from the gem and tweaked it
+
+To serve locally:
+
+> bundle exec jekyll serve
+
