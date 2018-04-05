@@ -10,7 +10,7 @@ synopsis: >
 
 Discussion of the book "Dragnet Nation" by Julia Angwin.
 
-Presenter: Gary?
+Presenter: Gary
 
 ### Follow-Up
 
