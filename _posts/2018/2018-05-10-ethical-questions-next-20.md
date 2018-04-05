@@ -3,7 +3,7 @@ title:  "FUTURE - Ethical Questions for the Next 20 Years"
 date:   2018-05-10 19:00:00 -0700
 categories: MarkH _FUTURE_
 synopsis: >
-  With an accelerating development in almost all technological fields - from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life - we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. 
+  With an accelerating development in almost all technological fields - from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life - we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. Join us as we will look at some of these issues and discuss, as unprepared as we may be, how we deal with them. Your views are important.
 ---
 
 ### Introduction

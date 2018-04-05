@@ -3,7 +3,7 @@ title:  "Underwater Colonization"
 date:   2018-03-01 21:00:07 -0700
 categories: Torben 
 synopsis: >
-  By 2040, we need to find room on Earth for 9-10 billion people. Space exploration is one option; another is colonizing the oceans.
+  By 2040, we need to find room on Earth for 9 billion people. Space exploration is one option; another is colonizing the oceans. After all, 3/4 of the Earth’s surface is covered with water. There are many ideas for both surface and sub-surface colonies and it may well be faster and cheaper way than space colonization. We will discuss these options and their pros and cons.
 ---
 
 ### Introduction
