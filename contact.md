@@ -7,7 +7,7 @@ permalink: /contact/
  
 ![BIF Logo](assets/bif-logo.jpg)
 
-## TBD
+## Coming soon...
 
 This page will be expanded to (possibly) include:
 
