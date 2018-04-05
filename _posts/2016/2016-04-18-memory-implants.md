@@ -2,6 +2,8 @@
 title:  "Memory Implants"
 date:   2016-04-18 21:00:07 -0700
 categories: Torben
+synopsis: >
+  The ethics of memory manipulation
 ---
 
 ### Introduction

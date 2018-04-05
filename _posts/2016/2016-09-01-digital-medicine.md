@@ -2,6 +2,8 @@
 title:  "Digital Medicine"
 date:   2016-09-01 21:00:07 -0700
 categories: Torben
+synopsis: >
+  Medicine is rapidly becoming information technology, bringing it from science fiction to science fact. The mentioned developments are well underway and with the confluence of genetics, robotics, nanotechnology, and artificial intelligence the results may be here much sooner than we think and be more dramatic than we can even fathom.
 ---
 
 ### Introduction

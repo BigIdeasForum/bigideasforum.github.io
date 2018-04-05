@@ -2,6 +2,8 @@
 title:  "Energy Revolution"
 date:    2017-03-13 21:00:07 -0700
 categories: Torben
+synopsis: >
+  The need for new sources of energy is imminent. Many ideas have been put forward and new ones pop up almost daily.	But how far are we actually? Which are the most promising technologies? If we develop new sources, can everyone afford them - or maybe only some of us?
 ---
 
 ### Introduction

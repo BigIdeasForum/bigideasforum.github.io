@@ -2,6 +2,8 @@
 title:  "Swarm Intelligence"
 date:   2017-11-20 21:00:07 -0700
 categories: Torben
+synopsis: >
+  Swarm intelligence is part of the general “crowd wisdom” phenomenon known in nature among ants, bees, starlings, sardines and other fauna species. Artificial intelligence and robots are now being combined into new products that are self-learning and self-organizing and with algorithms that make swarms better decision makers than individuals and even experts.
 ---
 
 

@@ -2,6 +2,8 @@
 title:  "Human Trafficking"
 date:   2015-12-28 21:00:07 -0700
 categories: Steve
+synopsis: >
+  Human Trafficking is the third largest criminal endeavor in the world. Despite more than 30 million people losing their identities and freedom, law enforcement has been unable to halt this insidious disease. Those who are trafficked are forced into prostitution, unpaid labor and villainous behavior.
 ---
 
 ### Introduction

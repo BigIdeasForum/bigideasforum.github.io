@@ -2,6 +2,8 @@
 title:  "Cyber Crime"
 date:   2015-10-02 21:00:07 -0700
 categories: Gary
+synopsis: >
+  Many of us enjoy danger in the form of a good "scary story" which we can experience vicariously while sitting safely in our living room. But what if the danger is real, invisible but present alongside you? 
 ---
 
 ### Introduction

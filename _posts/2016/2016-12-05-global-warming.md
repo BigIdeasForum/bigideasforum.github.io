@@ -2,6 +2,8 @@
 title:  "Can We Reverse Global Warming?"
 date:   2016-10-10 21:00:07 -0700
 categories: Gary
+synopsis: > 
+  No one may have a definite answer to that question, some would claim we don’t have a warming by a climate change that will reverse automatically. But what do we know about the status of the global warming and what could be done to reverse the trend? Since most of us won’t be around by the time it is critical, we may not care - but how about our children and grandchildren? When they ask us why we didn’t do anything when we could, what will we answer?
 ---
 
 ### Introduction

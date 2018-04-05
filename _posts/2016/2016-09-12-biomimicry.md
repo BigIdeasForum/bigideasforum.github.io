@@ -2,6 +2,8 @@
 title:  "Biomimicry"
 date:   2016-09-12 21:00:07 -0700
 categories: PamL
+synopsis: >
+  Evolution has equipped plants and animals with designs and features which despite being utterly simple, have been impossible to copy by man, until now.
 ---
 
 ### Introduction

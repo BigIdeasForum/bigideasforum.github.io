@@ -2,6 +2,8 @@
 title:  "Reuse/Renew/Recycle"
 date:   2017-01-09 21:00:07 -0700
 categories: PamL
+synopsis: >
+  The epic waste embedded in our daily lives drives many of the era's greatest crises from energy, climate, pollution, clean water and even security and the economy.
 ---
 
 ### Introduction

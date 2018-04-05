@@ -2,6 +2,8 @@
 title:  "Elder Care"
 date:   2016-02-29 21:00:07 -0700
 categories: Connie
+synopsis: >
+  A brief survey of present options for eldercare and family support plus a glimpse at how technology may be expanding options in the future.
 ---
 
 ### Introduction
