@@ -8,7 +8,7 @@ synopsis: >
 
 ### Introduction
 
-Discussion of the book "Dragnet Nation" by Julia Angwin.
+Discussion of the book "[Dragnet Nation](https://www.amazon.com/Dragnet-Nation-Security-Relentless-Surveillance/dp/B01LTHXKEU)" by Julia Angwin.
 
 Presenter: Gary
 
