@@ -1,5 +1,5 @@
 ---
-title:  "FUTURE - Ethical Questions for the Next 20 Years"
+title:  "Ethical Questions for the Next 20 Years (Future)"
 date:   2018-05-10 19:00:00 -0700
 categories: MarkH _FUTURE_
 synopsis: >

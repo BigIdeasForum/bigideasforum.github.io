@@ -1,5 +1,5 @@
 ---
-title:  "FUTURE - The Future of Communication"
+title:  "The Future of Communication (Future)"
 date:   2018-04-19 19:00:00 -0700
 categories: Gary _FUTURE_
 synopsis: >
