@@ -18,12 +18,13 @@ Presenter: MarkH
 
 Thanks to Mark for a fascinating presentation on Adam Savage’s visit to the MIT's Center for Bits and Atoms. It sure made our heads spin, and for those of you who wants a second spin - now that the Olympics are over - here are the links to the four segments - as well as Mark’s notes:
 
-* [Episode 1](https://www.youtube.com/watch?v=RaHMDNf56W4) - 9:26 min
+* [Episode 1: Digital fabrication at molecular scale (nano-bio)](https://www.youtube.com/watch?v=RaHMDNf56W4) - 9:26 min
 
-* [Episode 2](https://www.youtube.com/watch?v=_kFC0CBjk1Q) - 7:58 min
+* [Episode 2: Digital fabrication at micron scale](https://www.youtube.com/watch?v=_kFC0CBjk1Q) - 7:58 min
 
-* [Episode 3](https://www.youtube.com/watch?v=kyywuojz8f0) - 16:05 min
+* [Episode 3: Rapid prototyping of rapid prototyping. What makes the machines?](https://www.youtube.com/watch?v=kyywuojz8f0) - 16:05 min
 
-* [Episode 4](https://www.youtube.com/watch?v=JtKi8lNSqvw) - 30:32 min
+* [Episode 4: Digital fabrication at the macro scale](https://www.youtube.com/watch?v=JtKi8lNSqvw) - 30:32 min
 
 * [Presentation](/assets/present/2018/cutting-edge-tech.pdf) (PDF)
+
