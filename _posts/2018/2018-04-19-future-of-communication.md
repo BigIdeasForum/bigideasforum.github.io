@@ -8,7 +8,7 @@ synopsis: >
 
 ### Introduction
 
-In less than a decade, dissemination of information went from well-defined print, radio and TV media to social platforms cloud information. 
+In less than a decade, dissemination of information went from well-defined print, radio and TV media to social platforms with information in the cloud. 
 
 With this came two problems: 
 1. the issue of sifting through an overload of information
@@ -20,4 +20,4 @@ Presenter: Gary
 
 ### Follow-Up
 
-* [Presentation](/assets/present/2018/future-of-communication.pdf) (PDF)
+* [Presentation](/assets/present/2018/future-of-communication.pdf) (Future PDF)
