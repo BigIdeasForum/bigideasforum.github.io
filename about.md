@@ -20,7 +20,7 @@ The **_Big Ideas Forum_** is an informal group of inquisitive people of all ages
 
 ---
 
-Science and technology  gather knowledge faster than society gathers wisdom. Every day, we are amazed by new discoveries, by boundaries being push out farther and farther, by how things around us are getting faster, smaller, smarter and more connected; we don’t know how to keep up - or worse, we cannot make sense of what it means for our daily lives. And this is only the ‘beginning.
+Science and technology  gather knowledge faster than society gathers wisdom. Every day, we are amazed by new discoveries, by boundaries being push out farther and farther, by how things around us are getting faster, smaller, smarter and more connected; we don’t know how to keep up - or worse, we cannot make sense of what it means for our daily lives. And this is only the beginning.
 
 To address some of the above questions, Anthem residents Gary Bettis and Torben Riise have taken the initiative to form a **_Big Ideas Forum_** in collaboration with the Anthem Community Center.
 
