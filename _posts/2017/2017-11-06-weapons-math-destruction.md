@@ -8,7 +8,7 @@ categories: Torben John
 
 Technology is rapidly changing! Come and find out the latest trends and discuss the impacts these technologies will have on our lives.
 
-Presenter: Torben
+Presenter: John & Torben
 
 ### Follow-Up
 
