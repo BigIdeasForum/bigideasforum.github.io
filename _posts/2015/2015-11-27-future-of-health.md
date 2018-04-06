@@ -1,6 +1,6 @@
 ---
 title:  "The Future of Health"
-date:   2015-11-27 21:00:07 -0700
+date:   2015-11-27 19:00:00
 categories: Torben
 synopsis: >
   The Future of Health. The Future of Health Care. The Future of Medicine

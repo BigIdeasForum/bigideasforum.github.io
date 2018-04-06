@@ -1,6 +1,6 @@
 ---
 title:  "The Surveillance Society"
-date:    2017-02-27 21:00:07 -0700
+date:    2017-02-27 19:00:00
 categories: Gary
 synopsis: >
   We are growing accustomed to the fact that having our activities recorded is an inevitable part of life in the digital age. But we may not realize how far this has already come and how much farther emerging technologies can go.

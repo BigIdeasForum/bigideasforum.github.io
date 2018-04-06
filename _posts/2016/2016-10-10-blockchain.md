@@ -1,6 +1,6 @@
 ---
 title:  "Blockchain"
-date:   2016-10-10 21:00:07 -0700
+date:   2016-10-10 19:00:00
 categories: Brant
 synopsis: > 
   The Blockchain technology will fundamentally transform the institutions our societies are built upon. Because the Blockchain technology powers the digital currency Bitcoin, it will not only affect how business is being made, but also our legal systems. Ultimately, the effect of the Blockchain technology will be much more far reaching; it will also transform governance, healthcare, education, and various other pillars of our societies.

@@ -1,6 +1,6 @@
 ---
 title:  "The Future of Education"
-date:   2017-10-23 21:00:07 -0700
+date:   2017-10-23 19:00:00
 categories: Sharon
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "Online Productivity"
-date:   2017-12-04 21:00:07 -0700
+date:   2017-12-04 19:00:00
 categories: Brant
 synopsis: >
   As we spend more and more time online, we often get lost in the enormous amount of data available. However, there’s help.

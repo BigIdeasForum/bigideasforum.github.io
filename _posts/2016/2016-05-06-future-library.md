@@ -1,6 +1,6 @@
 ---
 title:  "The Future of the Library"
-date:   2016-05-02 21:00:07 -0700
+date:   2016-05-02 19:00:00
 categories: Pam
 ---
 

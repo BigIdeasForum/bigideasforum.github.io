@@ -1,6 +1,6 @@
 ---
 title:  "Can We Reverse Global Warming?"
-date:   2016-10-10 21:00:07 -0700
+date:   2016-10-10 19:00:00
 categories: Gary
 synopsis: > 
   No one may have a definite answer to that question, some would claim we don’t have a warming by a climate change that will reverse automatically. But what do we know about the status of the global warming and what could be done to reverse the trend? Since most of us won’t be around by the time it is critical, we may not care - but how about our children and grandchildren? When they ask us why we didn’t do anything when we could, what will we answer?
@@ -14,8 +14,8 @@ Presenter: Gary
 
 ### Follow-Up
 
-* [Time-lapse proof of extreme ice loss ](http://www.ted.com/talks/james_balog_time_lapse_proof_of_extreme_ice_loss ) 
-* [The science behind a climate headline](https://www.ted.com/talks/rachel_pike_the_science_behind_a_climate_headline)
+* [“Time-lapse proof of extreme ice loss”](http://www.ted.com/talks/james_balog_time_lapse_proof_of_extreme_ice_loss ) 
+* [“The science behind a climate headline”](https://www.ted.com/talks/rachel_pike_the_science_behind_a_climate_headline)
 * [“The state of the climate — and what we might do about it”](http://www.ted.com/talks/lord_nicholas_stern_the_state_of_the_climate_and_what_we_might_do_about_it)
 * [“Let's prepare for our new climate”](http://www.ted.com/talks/vicki_arroyo_let_s_prepare_for_our_new_climate)
 * Also check out this google earth site and type in Anthem Az  [https://earthengine.google.com/timelapse/](https://earthengine.google.com/timelapse/)

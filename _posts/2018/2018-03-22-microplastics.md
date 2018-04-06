@@ -1,6 +1,6 @@
 ---
 title:  "Micro-plastics & Pollution"
-date:   2018-03-22 19:00:00 -0700
+date:   2018-03-22 19:00:00
 categories: PamL
 synopsis: >
   We have long known that plastic debris on land and in the ocean is a huge problem. But it is generally not known that the slow degradation of plastic leaves particles small enough to penetrate the cells of marine animals and never disappear. As part of the food chain, humans are exposed to a threat far larger than anticipated. Join the debate of this important issue and offer your views on what we as individuals, what companies and what authorities can do to solve this problem.

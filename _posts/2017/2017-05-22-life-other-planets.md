@@ -1,6 +1,6 @@
 ---
 title:  "Living on Other Planets"
-date:   2017-05-22 21:00:07 -0700
+date:   2017-05-22 19:00:00
 categories: Mick
 synopsis: >
   Hollywood’s dream about populating other planets in our solar system, and possibly beyond, is getting closer. Evidenced by the success of movies like “The Martian” proves the dream is well and alive in the general population.

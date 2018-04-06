@@ -1,6 +1,6 @@
 ---
 title:  "Cutting Edge Technology (MIT) "
-date:   2018-02-22 21:00:07 -0700
+date:   2018-02-22 19:00:00
 categories: MarkH 
 synopsis: >
   In this program, we will “go inside” the MIT Center for cutting edge technologies (the so-called "Center for Bits and Atoms") and see how researchers are putting devices together - literally atom by atom - to make things that no one yet knows what to use for... truly a mind-blowing endeavor that will challenge us to even grasp what it actually takes to bring forth products and processes we don't see until they are completed and put on the market. 
