@@ -26,4 +26,4 @@ It is highly recommended that you check out at least the two videos linked below
 * [“The Surprising Solution to Ocean Plastic”](https://www.ted.com/talks/david_katz_what_if_you_could_turn_plastic_trash_into_cash) - 14 min
 * [“This app makes it fun to pick up plastic”](https://www.ted.com/talks/jeff_kirschner_this_app_makes_it_fun_to_pick_up_litter) - 6 min
 
-Also, because this project was researched so extensively, we include a list many relevant links to the subject (see above) - it’s worth your time to dig in to it. You will come away with a new appreciation about what role each one of us has in limiting polluting the Earth with plastic.
+Also, because this project was researched so extensively, we include a list of many relevant links to the subject (see above) - it’s worth your time to dig in to it. You will come away with a new appreciation about what role each one of us has in limiting polluting the Earth with plastic.

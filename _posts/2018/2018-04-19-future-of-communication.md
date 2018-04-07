@@ -14,7 +14,7 @@ With this came two problems:
 1. the issue of sifting through an overload of information
 1. the ability of an individual to reach huge numbers of contacts with self-created or passed-on information. The latter has facilitating the phenomenon of “fake news.”
 
-As we are all affected by this development, we aspect a very lively discussion.
+As we are all affected by this development, we expect a very lively discussion.
 
 Presenter: Gary
 
