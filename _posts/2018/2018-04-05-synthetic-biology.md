@@ -16,4 +16,10 @@ Presenter: Torben
 
 ### Follow-Up
 
+In case video links do not run inside the slide presentation, here they are:
+
+* [“Genome Editing with CRISPR-Cas9”](https://www.youtube.com/watch?v=2pp17E4E-O8)
+* [“On the Verge of Creating Synthetic Life”](https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life) - Craig Venter’s TED Talk
+* [“Scientists grow lamb fetus inside artificial womb”](https://www.youtube.com/watch?v=dt7twXzNEsQ)
+
 * [Presentation](/assets/present/2018/synthetic-biology.pdf) (PDF)
