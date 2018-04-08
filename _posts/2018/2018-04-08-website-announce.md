@@ -1,7 +1,7 @@
 ---
 title:  "Big Ideas Forum Website"
 date:   2018-04-08  12:00:00
-categories: brant
+categories: Brant
 synopsis: >
   The new Big Ideas Forum website is live!
 ---
