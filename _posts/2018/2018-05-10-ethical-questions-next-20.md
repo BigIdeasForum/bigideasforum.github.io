@@ -3,12 +3,12 @@ title:  "Ethical Questions for the Next 20 Years (Future)"
 date:   2018-05-10 19:00:00
 categories: MarkH _FUTURE_
 synopsis: >
-  With an accelerating development in almost all technological fields - from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life - we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. Join us as we will look at some of these issues and discuss, as unprepared as we may be, how we deal with them. Your views are important.
+  With an accelerating development in almost all technological fields--from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life--we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. Join us as we will look at some of these issues and discuss, as unprepared as we may be, how we deal with them. Your views are important.
 ---
 
 ### Introduction
 
-With an accelerating development in almost all technological fields - from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life - we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. 
+With an accelerating development in almost all technological fields--from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life--we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. 
 
 What are these new ethical questions? Things like:
 
@@ -21,7 +21,7 @@ What are these new ethical questions? Things like:
 * What constitutes ethical or unethical behavior?
 * Is it ethical for people, corporations, or nations to create future problems or uncertainties by current actions, even if well intended?
 * Is it ethical to detain people or interfere with their lives on the basis of expectations about their future actions? 
-* What is the ethical trade-offs between human rights and the need for national security, particularly preservation of privacy and freedom from search?
+* What are the ethical trade-offs between human rights and the need for national security, particularly preservation of privacy and freedom from search?
 
 Join us as we will look at some of these issues and discuss, as unprepared as we may be, how we deal with them. Your views are important.
 
