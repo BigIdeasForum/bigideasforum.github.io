@@ -6,7 +6,7 @@ synopsis: >
   The new Big Ideas Forum website is live!
 ---
 
-We want to make everyone aware of the **Big Ideas Forum** website that our web wizard Brant has created. The web address is:  [http://bigideasforum.info](https://bigideasforum.info). Take a quick tour now (and you have, because you're here :) ).
+We want to make everyone aware of the **Big Ideas Forum** website that our web wizard Brant has created. The web address is:  [http://bigideasforum.info](http://bigideasforum.info). Take a quick tour now (and you have, because you're here :) ).
 
 The site has five purposes:
 
