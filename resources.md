@@ -1,6 +1,7 @@
-# Resources
-
-## Suggested Subject List
+---
+title: Resources
+header: true
+---
 
 ### Accelerating Technology
 
