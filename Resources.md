@@ -27,11 +27,11 @@
 
 ### Permanent Source of Inspiration
 
-* TED TALKS - [www.ted.com](www.ted.com) 
-* The Singularity University - [www.singularityhub.com ](www.singularityhub.com )
-* World Science Festival - [www.worldsciencefestival.com ](www.worldsciencefestival.com )
-* Singularity Hub - [www.singularityu.org](www.singularityu.org) 
-* Future Life Institute - [www.futurelifeinstitute.org ](www.futurelifeinstitute.org )
+* TED TALKS - [www.ted.com](http://www.ted.com) 
+* The Singularity University - [www.singularityhub.com ](http://www.singularityhub.com )
+* World Science Festival - [www.worldsciencefestival.com ](http://www.worldsciencefestival.com )
+* Singularity Hub - [www.singularityu.org](http://www.singularityu.org) 
+* Future Life Institute - [www.futurelifeinstitute.org ](http://www.futurelifeinstitute.org )
 
 
  
