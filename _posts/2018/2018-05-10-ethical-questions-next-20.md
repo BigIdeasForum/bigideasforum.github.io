@@ -25,7 +25,7 @@ What are these new ethical questions? Things like:
 
 Join us as we will look at some of these issues and discuss, as unprepared as we may be, how we deal with them. Your views are important.
 
-Presenter: MarkH
+Presenter: Mark H.
 
 ### Follow-Up
 

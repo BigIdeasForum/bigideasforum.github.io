@@ -14,7 +14,6 @@ But algorithms are only what programmers make them into, and that may, at best, 
 
 None of us is untouched by this already widespread use of (early stage) artificial intelligence. Be there on this night and contribute to the discussion.
 
-
 Presenter: John & Torben
 
 ### Follow-Up

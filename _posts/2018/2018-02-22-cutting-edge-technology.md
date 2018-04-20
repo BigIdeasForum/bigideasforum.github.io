@@ -12,7 +12,7 @@ In this program, we will “go inside” the MIT Center for cutting edge technol
 
 This is a night when we will all shake our heads and not be one bit embarrassed by not quite understanding what’s going on. Don’t let that hold you back… rather, make it a reason for being there!
 
-Presenter: MarkH
+Presenter: Mark H.
 
 ### Follow-Up
 
