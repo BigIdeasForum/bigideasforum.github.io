@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /categories/
-title: Categories
+permalink: /presenter/
+title: Presenter
 ---
  
 <h1 class="page-heading">By Presenter</h1>
