@@ -3,6 +3,10 @@
 
   {% include head.html %}
   {% feed_meta %}
+  {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
+
   <body>
 
     {% include header.html %}
