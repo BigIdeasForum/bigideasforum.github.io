@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hyperloop"
-subtitle: "Transportation by Levitation"
+title:  Hyperloop
+subtitle: Transportation by Levitation
 date:   2017-09-11 19:00:00
 categories: Torben
 tags: [Other Technologies]

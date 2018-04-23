@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ethical Questions for the Next 20 Years"
-subtitle: "Can We Handle Our Own Future"
+title:  Ethical Questions for the Next 20 Years
+subtitle: Can We Handle Our Own Future
 date:   2018-05-10 19:00:00
 categories: MarkH 
 tags: [Social Issues, FUTURE]

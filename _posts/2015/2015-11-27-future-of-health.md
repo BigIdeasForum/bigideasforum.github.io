@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Future of Health"
-subtitle: "Life Without Diseases"
+title:  The Future of Health
+subtitle: Life Without Diseases
 date:   2015-11-27 19:00:00
 categories: Torben
 tags: [Medicine/Health/Genetics]

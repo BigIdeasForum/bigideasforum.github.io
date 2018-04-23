@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cutting Edge Technology (MIT) "
-subtitle: "The New Way of Making Things"
+title:  Cutting Edge Technology (MIT)
+subtitle: The New Way of Making Things
 date:   2018-02-22 19:00:00
 categories: MarkH
 tags: [Other Technologies]

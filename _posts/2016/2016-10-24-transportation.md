@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Future of Transportation"
-subtitle: "Are We There Now? Driverless Vehicles"
+title:  The Future of Transportation
+subtitle: Are We There Now? Driverless Vehicles
 date:   2016-10-24 19:00:00
 categories: Torben
 tags: [Social Issues]

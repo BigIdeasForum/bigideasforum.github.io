@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Origami Revolution"
-subtitle: "Folding The World"
+title:  The Origami Revolution
+subtitle: Folding The World
 date:   2017-09-25 19:00:00
 categories: Lisa
 tags: [Other/Tech Slams]

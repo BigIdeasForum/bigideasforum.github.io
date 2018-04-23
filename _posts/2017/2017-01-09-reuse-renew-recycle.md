@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Reuse/Renew/Recycle"
-subtitle: "Running Out Of Options"
+title:  Reuse/Renew/Recycle
+subtitle: Running Out Of Options
 date:   2017-01-09 19:00:00
 categories: PamL
 tags: [Environment]

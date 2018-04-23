@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Micro-Plastics"
-subtitle: “The Hidden Pollution”
+title:  Micro-Plastics
+subtitle: The Hidden Pollution
 date:   2018-03-22 19:00:00
 categories: PamL
 tags: [Environment]

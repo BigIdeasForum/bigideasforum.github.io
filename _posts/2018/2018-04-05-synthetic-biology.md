@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Synthetic Biology"
-subtitle: "Creating Life in The Lab"
+title:  Synthetic Biology
+subtitle: Creating Life in The Lab
 date:   2018-04-05 19:00:00
 categories: Torben
 tags: [Medicine/Health/Genetics]

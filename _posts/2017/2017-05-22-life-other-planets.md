@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Living on Other Planets"
-subtitle: "When The Earth Becomes Too Small"
+title:  Living on Other Planets
+subtitle: When The Earth Becomes Too Small
 date:   2017-05-22 19:00:00
 categories: Mick
 tags: [Social Issues]

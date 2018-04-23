@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Digital Medicine"
-subtitle: "Your Doctor in Your Pocket"
+title:  Digital Medicine
+subtitle: Your Doctor in Your Pocket
 date:   2016-09-01 19:00:00
 categories: Torben
 tags: [Medicine/Health/Genetics]

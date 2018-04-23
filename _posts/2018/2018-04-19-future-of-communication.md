@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Future of Communication"
-subtitle: "The World of Fake News"
+title:  The Future of Communication
+subtitle: The World of Fake News
 date:   2018-04-19 19:00:00
 categories: Gary
 tags: [Social Issues]

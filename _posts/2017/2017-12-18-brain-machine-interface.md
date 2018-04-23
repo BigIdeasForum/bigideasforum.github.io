@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Brain-Machine Interface"
-subtitle: "The Matrix Is Becoming Reality"
+title:  Brain-Machine Interface
+subtitle: The Matrix Is Becoming Reality
 date:   2017-12-18 19:00:00
 categories: Gary
 tags: [Artificial Intelligence]

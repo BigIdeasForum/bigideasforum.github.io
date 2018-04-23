@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Energy Revolution"
-subtitle: "A Life Without Fossil Fuels"
+title:  Energy Revolution
+subtitle: A Life Without Fossil Fuels
 date:    2017-03-13 19:00:00
 categories: Torben
 tags: [Other Technologies]

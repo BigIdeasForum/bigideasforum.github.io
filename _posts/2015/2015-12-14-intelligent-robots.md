@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intelligent Robots: Friend or Foe?"
-subtitle: "Will We Be Outsmarted?"
+subtitle: Will We Be Outsmarted?
 date:   2015-12-28 19:00:00
 categories: Dave
 tags: [Robots]

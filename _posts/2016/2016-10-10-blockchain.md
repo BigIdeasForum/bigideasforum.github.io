@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blockchain"
-subtitle: "Transparent But Anonymous Interaction"
+title:  Blockchain
+subtitle: Transparent But Anonymous Interaction
 date:   2016-10-10 19:00:00
 categories: Brant
 tags: [Internet and Digital Technology]

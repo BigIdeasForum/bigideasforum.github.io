@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Creativity"
-subtitle: "Awakening the Artist Within Us"
+title:  Creativity
+subtitle: Awakening the Artist Within Us
 date:   2015-12-28 19:00:00
 categories: Karen
 tags: [Other/Tech Slams]

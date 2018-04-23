@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Swarm Intelligence"
-subtitle: "Better Decisions"
+title:  Swarm Intelligence
+subtitle: Better Decisions
 date:   2017-11-20 19:00:00
 categories: Torben
 tags: [Internet and Digital Technology]

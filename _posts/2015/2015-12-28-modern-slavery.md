@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Human Trafficking"
-subtitle: "Today’s Slavery"
+title:  Human Trafficking
+subtitle: Today’s Slavery
 date:   2015-12-28 19:00:00
 categories: Steve
 tags: [Social Issues]

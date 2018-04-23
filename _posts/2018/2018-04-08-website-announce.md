@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Big Ideas Forum Website"
-subtitle: "BIF Resources: A Click Away"
+title:  Big Ideas Forum Website
+subtitle: BIF Resources, A Click Away
 date:   2018-04-08  12:00:00
 categories: Brant 
 tags: [Internet and Digital Technology]

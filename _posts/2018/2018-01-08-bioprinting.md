@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bioprinting"
-subtitle: "Building Your Own Body Parts"
+title:  Bioprinting
+subtitle: Building Your Own Body Parts
 date:   2018-01-08 19:00:00
 categories: Torben
 tags: [Medicine/Health/Genetics]

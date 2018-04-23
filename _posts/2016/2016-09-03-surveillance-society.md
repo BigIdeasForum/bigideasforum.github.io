@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Surveillance Society"
-subtitle: "An Eye in The Sky"
+title:  The Surveillance Society
+subtitle: An Eye in the Sky
 date:   2016-09-03 19:00:00
 categories: Gary
 tags: [Social Issues]

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Elder Care"
-subtitle: "Dealing With Our Personal Future"
+title:  Elder Care
+subtitle: Dealing With Our Personal Future
 date:   2016-02-29 19:00:00
 categories: Connie
 tags: [Social Issues]

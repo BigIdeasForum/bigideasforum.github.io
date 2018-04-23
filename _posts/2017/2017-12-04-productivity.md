@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Online Productivity"
-subtitle: "Let The Computer Work For You"
+title:  Online Productivity
+subtitle: Let The Computer Work For You
 date:   2017-12-04 19:00:00
 categories: Brant
 tags: [Internet and Digital Technology]

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Weapons of Math Destruction"
-subtitle: "The Threat Of Algorithms"
+title:  Weapons of Math Destruction
+subtitle: The Threat of Algorithms
 date:   2017-11-06 19:00:00
 categories: Torben John
 tags: [Internet and Digital Technology]

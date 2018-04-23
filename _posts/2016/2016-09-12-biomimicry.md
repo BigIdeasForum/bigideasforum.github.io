@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Biomimicry"
-subtitle: "Learning From Nature"
+title:  Biomimicry
+subtitle: Learning From Nature
 date:   2016-09-12 19:00:00
 categories: PamL
 tags: [Other/Tech Slams]

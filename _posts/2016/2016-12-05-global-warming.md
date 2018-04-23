@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Can We Reverse Global Warming?"
-subtitle: "Nearing The Tipping Point"
+title:  Can We Reverse Global Warming?
+subtitle: Nearing The Tipping Point
 date:   2016-10-10 19:00:00
 categories: Gary
 tags: [Environment]
