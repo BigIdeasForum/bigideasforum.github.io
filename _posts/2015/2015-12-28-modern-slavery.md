@@ -1,12 +1,12 @@
 ---
+layout: post
 title:  "Human Trafficking"
+subtitle: "Today’s Slavery"
 date:   2015-12-28 19:00:00
 categories: Steve
-synopsis: >
-  Human Trafficking is the third largest criminal endeavor in the world. Despite more than 30 million people losing their identities and freedom, law enforcement has been unable to halt this insidious disease. Those who are trafficked are forced into prostitution, unpaid labor and villainous behavior.
+tags: [Social Issues]
+bigimg: /img/human-trafficing.jpg
 ---
-
-### Introduction
 
 Human Trafficking is the third largest criminal endeavor in the world. Despite more than 30 million people losing their identities and freedom, law enforcement has been unable to halt this insidious disease. Those who are trafficked are forced into prostitution, unpaid labor and villainous behavior.
 
@@ -15,6 +15,4 @@ Each year, more than one million people are added to the total. And, nearly 100,
 The discussion for the evening will focus on how the crime is committed, why legal authorities have been nearly paralyzed and, more importantly, how it can be stopped.
 
 Presenter: Steve
-
-### Follow-Up
 

@@ -1,14 +1,14 @@
 ---
+layout: post
 title:  "The Future of Communication"
+subtitle: "The World of Fake News"
 date:   2018-04-19 19:00:00
-categories: Gary 
-synopsis: >
-  In less than a decade, dissemination of information went from well-defined print, radio and TV media to social platforms and information in the cloud..  With this came two problems: (a) the issue of sifting through an overload of information; and (b) the ability of an individual to reach huge numbers of contacts with self-created or passed-on information. The latter has facilitating the phenomenon of “fake news.” As we are all affected by this development, we aspect a very lively discussion.
+categories: Gary
+tags: [Social Issues]
+bigimg: /img/fake-news.jpg
 ---
 
-### Introduction
-
-In less than a decade, dissemination of information went from well-defined print, radio and TV media to social platforms and information in the cloud. 
+In less than a decade, dissemination of information went from well-defined print, radio, and TV media to social platforms and information in the cloud. 
 
 With this came two problems: 
 1. the issue of sifting through an overload of information

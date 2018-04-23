@@ -1,12 +1,12 @@
 ---
+layout: post
 title:  "Online Productivity"
+subtitle: "Let The Computer Work For You"
 date:   2017-12-04 19:00:00
 categories: Brant
-synopsis: >
-  As we spend more and more time online, we often get lost in the enormous amount of data available. However, there’s help. A number of apps allow users to search, store and retrieve information in entirely new ways; or rather, they make the computer  do the work for you. We’ll take a look at these apps, and will revisit the most important in a follow-up presentation.
+tags: [Internet and Digital Technology]
+bigimg: /img/productivity.jpg
 ---
-
-### Introduction
 
 As we spend more and more time online, we often get lost in the enormous amount of data available. However, there’s help. 
 
@@ -14,7 +14,7 @@ Following the philosophy that we should let our computers do all the mundane and
 
 Whether a student, working, or retired, this presentation and discussion will be of great value to you - every day.
 
-A number of apps allow users to search, store and retrieve information in entirely new ways; or rather: They make the computer  do the work for you. We’ll take a look at these apps, and will revisit the most important in a follow-up presentation.
+A number of apps allow users to search, store and retrieve information in entirely new ways; or rather, they make the computer do the work for you. We’ll take a look at these apps, and will revisit the most important in a follow-up presentation.
 
 Presenter: Brant
 

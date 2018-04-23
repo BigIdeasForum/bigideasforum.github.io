@@ -1,16 +1,16 @@
 ---
+layout: post
 title:  "Reuse/Renew/Recycle"
+subtitle: "Running Out Of Options"
 date:   2017-01-09 19:00:00
 categories: PamL
-synopsis: >
-  The epic waste embedded in our daily lives drives many of the era's greatest crises from energy, climate, pollution, clean water and even security and the economy.
+tags: [Environment]
+bigimg: /img/reduce-reuse-recycle.jpg
 ---
 
-### Introduction
+The epic waste embedded in our daily lives drives many of the era's greatest crises, from energy, climate, pollution, clean water and even security and the economy. 
 
-The epic waste embedded in our daily lives drives many of the era's greatest crises from energy, climate, pollution, clean water and even security and the economy. 
-
-Waste is the one big problem each of us can do something about—in tonight’s program, we will discuss how!
+Waste is the one big problem each of us can do something about. In tonight’s program, we will discuss how!
 
 Presenter: Pam L.
 

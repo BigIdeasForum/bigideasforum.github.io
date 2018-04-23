@@ -1,14 +1,14 @@
 ---
+layout: post
 title:  "Can We Reverse Global Warming?"
+subtitle: "Nearing The Tipping Point"
 date:   2016-10-10 19:00:00
 categories: Gary
-synopsis: > 
-  No one may have a definite answer to that question, some would claim we don’t have a warming by a climate change that will reverse automatically. But what do we know about the status of the global warming and what could be done to reverse the trend? Since most of us won’t be around by the time it is critical, we may not care - but how about our children and grandchildren? When they ask us why we didn’t do anything when we could, what will we answer?
+tags: [Environment]
+bigimg: /img/global-warming.jpg
 ---
 
-### Introduction
-
-No one may have a definite answer to that question, some would claim we don’t have a warming by a climate change that will reverse automatically. But what do we know about the status of the global warming and what could be done to reverse the trend? Since most of us won’t be around by the time it is critical, we may not care - but how about our children and grandchildren? When they ask us why we didn’t do anything when we could, what will we answer?
+No one may have a definitive answer to that question.  Some might claim we don’t have human-caused warming but natural climate change that will reverse automatically. But what do we know about the status of the global warming and what could be done to reverse the trend? Since most of us won’t be around by the time it is critical, we may not care. But how about our children and grandchildren? When they ask us why we didn’t do anything when we could, what will we answer?
 
 Presenter: Gary
 

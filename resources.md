@@ -1,6 +1,7 @@
 ---
 title: Resources
 header: true
+permalink: /resources/
 ---
 
 ### Accelerating Technology
@@ -29,10 +30,8 @@ header: true
 ### Permanent Source of Inspiration
 
 * TED TALKS - [www.ted.com](http://www.ted.com) 
+* TED ED Talks - [ed.ted.com](http://ed.ted.com) 
 * The Singularity University - [www.singularityhub.com ](http://www.singularityhub.com )
 * World Science Festival - [www.worldsciencefestival.com ](http://www.worldsciencefestival.com )
 * Singularity Hub - [www.singularityu.org](http://www.singularityu.org) 
 * Future Life Institute - [www.futurelifeinstitute.org ](http://www.futurelifeinstitute.org )
-
-
- 

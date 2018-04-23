@@ -1,16 +1,18 @@
 ---
+layout: post
 title:  "The Future of Education"
+subtitle: "Schools in The Digital Age"
 date:   2017-10-23 19:00:00
 categories: Sharon
+tags: [Social Issues]
+bigimg: /img/future-of-education.jpg
 ---
 
-### Introduction
+We are all familiar with the traditional K-12 education. It has been a pillar of the Western societies for a century and has been the foundation for the high standard of living we enjoy today.
 
-We are all familiar with the traditional K-12 education. It has been a pillar of the Western societies for a Century, and been the foundation for the high standard of living we enjoy today.
+Our challenge is that AI, robots, virtual reality, IoT--and the confluence of all of them--will change society in ways that are hard to fathom. It is almost a given that our educational system does not give students the skills and knowledge they need in a highly dynamic world. And that requires a radical change in the educational system as well.
 
-Our challenge is that AI, robots, virtual reality, IoT - and the confluence of all of them - will change society in ways that are hard to fathom. It is almost a given that our educational system does not give students the skills and knowledge they need in a highly dynamic world. And that requires a radical change in the educational system as well.
-
-We will look at what is needed, and how teachers, parents and students must adjust to such a world.
+We will look at what is needed and how teachers, parents, and students must adjust to such a world.
 
 Presenter: Sharon
 

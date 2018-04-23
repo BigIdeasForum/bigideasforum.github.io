@@ -1,9 +1,10 @@
 ---
+layout: post
 title:  "Big Ideas Forum Website"
+subtitle: "BIF Resources: A Click Away"
 date:   2018-04-08  12:00:00
 categories: Brant 
-synopsis: >
-  The new Big Ideas Forum website is live!
+tags: [Internet and Digital Technology]
 ---
 
 We want to make everyone aware of the **Big Ideas Forum** website that our web wizard Brant has created. The web address is:  [http://bigideasforum.info](http://bigideasforum.info). Take a quick tour now (and you have, because you're here :) ).

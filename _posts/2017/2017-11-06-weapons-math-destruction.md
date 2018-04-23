@@ -1,16 +1,16 @@
 ---
+layout: post
 title:  "Weapons of Math Destruction"
+subtitle: "The Threat Of Algorithms"
 date:   2017-11-06 19:00:00
 categories: Torben John
-synopsis: >
-  AI algorithms are used extensively in loan applications, credit scores, having your CV examined during a job search, being accepted into a university program, etc. But algorithms are only what programmers make them into, and that may, at best, not be ideal and may even be destructive. We look at what algorithms are from a general point of view and how they are used more specifically. The discussion will center around how this phenomenon might harm individuals and perpetuate social biases. None of us is untouched by this already widespread use of (early stage) artificial intelligence. Be there on this night and contribute to the discussion.
+tags: [Internet and Digital Technology]
+bigimg: /img/algorithms.jpg
 ---
-
-### Introduction
 
 AI algorithms are used extensively in loan applications, credit scores, having your CV examined during a job search, being accepted into a university program, etc.
 
-But algorithms are only what programmers make them into, and that may, at best, not be ideal and may even be destructive. We look at what algorithms are from a general point of view and how they are used more specifically. The discussion will center around how this phenomenon might harm individuals and perpetuate social biases.
+But algorithms are only what programmers make them into, and that may--at best--not be ideal and may even be destructive. We look at what algorithms _are_ from a general point of view and how they are used more specifically. The discussion will center around how this phenomenon might harm individuals and perpetuate social biases.
 
 None of us is untouched by this already widespread use of (early stage) artificial intelligence. Be there on this night and contribute to the discussion.
 

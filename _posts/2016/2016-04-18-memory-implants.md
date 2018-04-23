@@ -1,18 +1,13 @@
 ---
+layout: post
 title:  "Memory Implants"
+subtitle: "Fixing Neurological Shortcomings"
 date:   2016-04-18 19:00:00
 categories: Torben
-synopsis: >
-  The ethics of memory manipulation
+tags: [Internet and Digital Technology]
+bigimg: /img/memory-implants.jpg
 ---
-
-### Introduction
 
 The ethics of memory manipulation.
 
 Presenter: Torben
-
-### Follow-Up
-
-* [Presentation TBD](/assets/present/tbd.pdf) 
-

@@ -3,6 +3,7 @@ layout: page
 title: Archive
 published: true
 header: true 
+permalink: /archive/
 years:
 - 2018
 - 2017

@@ -1,16 +1,16 @@
 ---
+layout: post
 title:  "Biomimicry"
+subtitle: "Learning From Nature"
 date:   2016-09-12 19:00:00
 categories: PamL
-synopsis: >
-  Evolution has equipped plants and animals with designs and features which despite being utterly simple, have been impossible to copy by man, until now.
+tags: [Other/Tech Slams]
+bigimg: /img/biomimicry.jpg
 ---
 
-### Introduction
+Evolution has equipped plants and animals with designs and features which despite being utterly simple, have been impossible to copy by man. Until now.
 
-Evolution has equipped plants and animals with designs and features which despite being utterly simple, have been impossible to copy by man, until now.
-
-Numerous inventions are based on the idea of mimicking nature and at this presentation, we will take a look at some of them and at how they may assist mankind in many areas of our lives.
+Numerous inventions are based on the idea of mimicking nature. This presentation will take a look at some of these ideas and how they may assist mankind in many areas of our lives.
 
 Presenter: Pam L.
 

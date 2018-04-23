@@ -1,12 +1,12 @@
 ---
+layout: post
 title:  "Elder Care"
+subtitle: "Dealing With Our Personal Future"
 date:   2016-02-29 19:00:00
 categories: Connie
-synopsis: >
-  A brief survey of present options for eldercare and family support plus a glimpse at how technology may be expanding options in the future.
+tags: [Social Issues]
+bigimg: /img/elder-care.jpg
 ---
-
-### Introduction
 
 A brief survey of present options for eldercare and family support plus a glimpse at how technology may be expanding options in the future.
 

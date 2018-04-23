@@ -1,16 +1,14 @@
 ---
+layout: post
 title:  "Digital Medicine"
+subtitle: "Your Doctor in Your Pocket"
 date:   2016-09-01 19:00:00
 categories: Torben
-synopsis: >
-  Medicine is rapidly becoming information technology, bringing it from science fiction to science fact. The mentioned developments are well underway and with the confluence of genetics, robotics, nanotechnology, and artificial intelligence the results may be here much sooner than we think and be more dramatic than we can even fathom.
+tags: [Medicine/Health/Genetics]
+bigimg: /img/digital-medicine.jpg
 ---
 
-### Introduction
-
-Digital Medicine: Transforming Science Fiction into Science Fact
-
-How would you like . . . 
+How would you like... 
 - a robot doing major surgery on you?
 - a computer diagnosing you via a smart phone?
 - replacement organs grown in a lab or bones made by 3D-printing?
@@ -29,6 +27,3 @@ These subjects will effect everyone, and people of all backgrounds and all ages 
 
 Presenter: Torben
 
-### Follow-Up
-
-* [Presentation TBD](/assets/present/tbd.pdf) 

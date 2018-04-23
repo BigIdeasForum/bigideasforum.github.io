@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
 permalink: /presenter/
 title: Presenter
 ---
  
-<h1 class="page-heading">By Presenter</h1>
 <div id="archives">
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}

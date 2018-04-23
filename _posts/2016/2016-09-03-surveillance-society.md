@@ -1,12 +1,12 @@
 ---
+layout: post
 title:  "The Surveillance Society"
+subtitle: "An Eye in The Sky"
 date:   2016-09-03 19:00:00
 categories: Gary
-synopsis: >
-  Discussion of the book "Dragnet Nation" by Julia Angwin.
+tags: [Social Issues]
+bigimg: /img/surveillance-society1.jpg
 ---
-
-### Introduction
 
 Discussion of the book "[Dragnet Nation](https://www.amazon.com/Dragnet-Nation-Security-Relentless-Surveillance/dp/B01LTHXKEU)" by Julia Angwin.
 

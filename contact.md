@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Contact
 permalink: /contact/
+// bigimg: /img/contact.jpg
 ---
 
 # **_Big Ideas Forum_** - Anthem

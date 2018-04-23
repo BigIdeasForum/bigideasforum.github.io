@@ -2,6 +2,7 @@
 layout: page
 title: Calendar
 header: true 
+permalink: /calendar/
 ---
 
 Here's a calendar of the upcoming events.
