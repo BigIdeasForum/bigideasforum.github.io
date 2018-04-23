@@ -144,7 +144,7 @@ markdown: kramdown
 highlighter: rouge
 # permalink: /:year-:month-:day-:title/
 permalink: /:year/:month/:day/:title/
-paginate: 30
+paginate: 6
 future: true
 
 kramdown:
