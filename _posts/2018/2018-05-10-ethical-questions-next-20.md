@@ -3,8 +3,8 @@ layout: post
 title:  "Ethical Questions for the Next 20 Years"
 subtitle: "Can We Handle Our Own Future"
 date:   2018-05-10 19:00:00
-categories: MarkH _FUTURE_
-tags: [Social Issues]
+categories: MarkH 
+tags: [Social Issues, FUTURE]
 bigimg: /img/ethical-questions.jpg
 ---
 
@@ -26,7 +26,3 @@ What are these new ethical questions? Things like:
 Join us as we will look at some of these issues and discuss, as unprepared as we may be, how we deal with them. Your views are important.
 
 Presenter: Mark H.
-
-### Follow-Up
-
-* [Presentation](/assets/present/2018/ethical-questions-next-20.pdf) (Future PDF)
