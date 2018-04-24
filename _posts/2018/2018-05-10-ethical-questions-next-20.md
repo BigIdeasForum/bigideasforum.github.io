@@ -8,6 +8,9 @@ tags: [Social Issues, FUTURE]
 bigimg: /img/ethical-questions.jpg
 ---
 
+
+### Future Event
+
 With an accelerating development in almost all technological fields--from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life--we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. 
 
 What are these new ethical questions? Things like:
