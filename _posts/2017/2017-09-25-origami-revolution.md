@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Origami Revolution
+title:  Origami Revolution
 subtitle: Folding The World
 date:   2017-09-25 19:00:00
 categories: Lisa

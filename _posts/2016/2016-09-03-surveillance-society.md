@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Surveillance Society
+title:  Surveillance Society
 subtitle: An Eye in the Sky
 date:   2016-09-03 19:00:00
 categories: Gary

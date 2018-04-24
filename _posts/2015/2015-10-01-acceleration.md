@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Accelerating Power of Technology
+title:  Accelerating Power of Technology
 subtitle: The Future Isn’t What It Used To Be
 date:   2015-10-01 19:00:00
 categories: Gary

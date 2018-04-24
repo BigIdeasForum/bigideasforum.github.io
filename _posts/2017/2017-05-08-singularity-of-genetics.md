@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Singularity of Genetics
+title:  Singularity of Genetics
 subtitle: Humans v2.0
 date:   2017-05-08 19:00:00
 categories: Torben

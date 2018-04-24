@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Surveillance Society II
+title:  Surveillance Society II
 subtitle: Big Brother Is Here
 date:    2017-02-27 19:00:00
 categories: Gary

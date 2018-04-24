@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Future of Health
+title:  Future of Health
 subtitle: Life Without Diseases
 date:   2015-11-27 19:00:00
 categories: Torben
@@ -8,7 +8,7 @@ tags: [Medicine/Health/Genetics]
 bigimg: /img/health.jpg
 ---
 
-The Future of Health. The Future of Health Care. The Future of Medicine
+Future of Health. Future of Health Care. Future of Medicine
 
 Presenter: Torben
 

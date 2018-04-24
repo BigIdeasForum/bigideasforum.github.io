@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Future of Education
+title:  Future of Education
 subtitle: Schools in The Digital Age
 date:   2017-10-23 19:00:00
 categories: Sharon
