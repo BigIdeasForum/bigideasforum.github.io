@@ -8,9 +8,7 @@ tags: [Social Issues]
 bigimg: /img/underwater-colonization.jpg
 ---
 
-By 2040, we need to find room on Earth for 9-10 billion people. 
-
-Space exploration is one option. Another is colonizing the oceans. After all, 3/4 of the Earth’s surface is covered with water. There are many ideas for both surface and sub-surface colonies, and such colonization may well be a faster and cheaper way than space colonization. 
+By 2040, we need to find room on Earth for 9-10 billion people. Space exploration is one option. Another is colonizing the oceans. After all, 3/4 of the Earth’s surface is covered with water. There are many ideas for both surface and sub-surface colonies, and such colonization may well be a faster and cheaper way than space colonization. 
 
 In this program, the speaker will engage the forum in identifying what the pros and cons of underwater and surface colonization are. In preparation of this, ask yourself this question: Would I want to live 100 yards--or even 1,000 yards--below the ocean’s surface? Why or why not? What would be your concerns? 
 
