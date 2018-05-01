@@ -12,7 +12,7 @@ We are growing accustomed to the fact that having our activities recorded is an 
 
 Are we willing to live with that? If not, can we defend ourselves against it? Do we even know who has access to all that information?
 
-These and many more questions will be discussed tonight - don’t miss it!
+These and many more questions will be discussed tonight. Don’t miss it!
 
 Presenter: ?? 
 
