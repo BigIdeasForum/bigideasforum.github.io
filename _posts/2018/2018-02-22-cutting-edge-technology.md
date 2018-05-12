@@ -8,7 +8,7 @@ tags: [Other Technologies]
 bigimg: /img/mit.jpg
 ---
 
-In this program, we will “go inside” the MIT Center for cutting edge technologies (the git"[Center for Bits and Atoms](http://cba.mit.edu)") and see how researchers are putting devices together--literally atom by atom--to make things that no one yet knows what to use for... truly a mind-blowing endeavor that will challenge us to even grasp what it actually takes to bring forth products and processes we don't see until they are completed and put on the market. 
+In this program, we will “go inside” the MIT Center for cutting edge technologies (the "[Center for Bits and Atoms](http://cba.mit.edu)") and see how researchers are putting devices together--literally atom by atom--to make things that no one yet knows what to use for... truly a mind-blowing endeavor that will challenge us to even grasp what it actually takes to bring forth products and processes we don't see until they are completed and put on the market. 
 
 This is a night when we will all shake our heads and not be one bit embarrassed by not quite understanding what’s going on. Don’t let that hold you back... rather, make it a reason for being there!
 
