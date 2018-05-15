@@ -4,11 +4,11 @@ title:  Ethical Questions for the Next 20 Years
 subtitle: Can We Handle Our Own Future
 date:   2018-05-10 19:00:00
 categories: MarkH 
-tags: [Social Issues, FUTURE]
+tags: [Social Issues]
 bigimg: /img/ethical-questions.jpg
 ---
 
-Future Event -- With an accelerating development in almost all technological fields--from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life--we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. 
+With an accelerating development in almost all technological fields--from AI, robots, and virtual reality to designer genes, cyborgs and synthetic life--we are facing changes to our work, personal life and society in general that will make life in 2030 almost unrecognizable from today. That also raises many significant ethical complications. 
 
 What are these new ethical questions? Things like:
 
@@ -26,3 +26,7 @@ What are these new ethical questions? Things like:
 Join us as we will look at some of these issues and discuss, as unprepared as we may be, how we deal with them. Your views are important.
 
 Presenter: Mark H.
+
+### Follow-Up
+
+* [Presentation](/assets/present/2018/ethics-technology.pdf) (PDF)

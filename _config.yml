@@ -17,7 +17,7 @@ baseurl: ""
 title: Big Ideas Forum
 
 # Short description of your site
-description: v0.2.0 (beta)
+description: v0.2.0
   
 # --- Navigation bar options --- #
 
@@ -25,6 +25,7 @@ description: v0.2.0 (beta)
 navbar-links:
   Info:
     - Calendar: "calendar"
+    - FullCalendar: "calendar2"
     - Resources: "resources"
     - Contact: "contact"
   Views: 
@@ -32,6 +33,7 @@ navbar-links:
     - Presenters: "presenter"
     - Tags: "tags"
   About: "about"
+  About2: "about2"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -182,6 +184,12 @@ exclude:
   - README.md
   - Vagrantfile
 
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
+    
 # prose.io config
 prose:
   rooturl: '_posts'
