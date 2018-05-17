@@ -25,7 +25,7 @@ description: v0.2.0
 navbar-links:
   Info:
     - Calendar: "calendar"
-    - FullCalendar: "calendar2"
+#    - FullCalendar: "calendar2"
     - Resources: "resources"
     - Contact: "contact"
   Views: 
