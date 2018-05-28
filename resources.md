@@ -23,7 +23,7 @@ permalink: /resources/
 
 ### Digital Technology
 
-* Marc Goodman: [“Future Crimes”](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459/) (Summary: T. Riise: “Trouble in Cyberspace”)
+* Marc Goodman: [“Future Crimes”](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459/) 
 * Andrew Keen: 	[“The Internet is NOT the Answer”](https://www.amazon.com/Internet-Not-Answer-Andrew-Keen/dp/0802124615/)
 
 
