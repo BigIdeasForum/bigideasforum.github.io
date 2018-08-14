@@ -8,7 +8,7 @@ tags: [Other Technologies, FUTURE]
 bigimg: /img/materials.jpg
 ---
 
-Future Event -- Not a week goes by without a progress in material sciences. 
+Future Event -- Not a week goes by without some progress in materials science. 
 It may not sound like the sexiest of all technologies, but when we take a closer look we come to 
 realize that just about every high tech or low tech product we own have been changed or wouldn’t 
 even been around without some of these progresses.

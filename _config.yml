@@ -28,6 +28,7 @@ navbar-links:
 #    - FullCalendar: "calendar2"
     - Resources: "resources"
     - Contact: "contact"
+    - Coffee Tuesday: "coffee"
   Views: 
     - Archive: "archive"
     - Presenters: "presenter"
