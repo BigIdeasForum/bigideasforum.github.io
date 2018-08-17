@@ -1,7 +1,7 @@
 ---
 title: Coffee Tuesdays
 layout: page
-bigimg: /img/coffee.jpg
+bigimg: /img/coffee2.jpg
 permalink: /coffee/
 ---
 
