@@ -8,9 +8,7 @@ tags: [Other Technologies]
 bigimg: /img/graphene.jpg
 ---
 
-Not a week goes by without some progress in materials science.
-
-It may not sound like the sexiest of all technologies, but when we take a closer look we come to 
+Not a week goes by without some progress in materials science. It may not sound like the sexiest of all technologies, but when we take a closer look we come to 
 realize that just about every high tech or low tech product we own have been changed or wouldn’t 
 even been around without some of these progresses.
 
