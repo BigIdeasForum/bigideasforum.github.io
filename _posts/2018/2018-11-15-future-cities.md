@@ -4,7 +4,7 @@ title: Cities of the Future
 subtitle: 
 date:   2018-11-15 19:00:00
 categories: ??
-tags: [ FUTURE]
+tags: [Other Technologies, FUTURE]
 bigimg: /img/cities-of-the-future.png
 ---
 
