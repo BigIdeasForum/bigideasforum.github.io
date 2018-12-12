@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Clean Water Technology
 subtitle: The Cutting Edge
 date:   2018-12-13 19:00:00
