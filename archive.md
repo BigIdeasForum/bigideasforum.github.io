@@ -5,6 +5,7 @@ published: true
 header: true 
 permalink: /archive/
 years:
+- 2019
 - 2018
 - 2017
 - 2016
