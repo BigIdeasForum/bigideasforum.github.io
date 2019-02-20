@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  AI, Robots, and the Future of Work
+subtitle: Human Value in a Digital World
 date:   2019-03-07 19:00:00
 categories: Torben
 tags: [Future, Artificial Intelligence, Robots]
