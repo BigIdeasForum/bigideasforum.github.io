@@ -15,3 +15,7 @@ These are some of the questions that will be presented and discussed tonight, an
 Expect a lively night.
 
 Presenter: Torben
+
+### Follow-Up
+
+* [Presentation](/assets/present/2019/disruptive-tech.pdf) (PDF)
