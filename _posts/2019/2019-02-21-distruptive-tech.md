@@ -19,3 +19,12 @@ Presenter: Torben
 ### Follow-Up
 
 * [Presentation](/assets/present/2019/disruptive-tech.pdf) (PDF)
+
+
+Other references
+
+* [“Innovator's Dilemma: When New Technologies Cause Great Firms to Fail”](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) -- the book referenced in the talk.
+* ["Intrapreneuring: Why you don't have to leave the corporation to become an entrepreneur"](https://www.amazon.com/Intrapreneuring-leave-corporation-become-entrepreneur-ebook/dp/B07NNTPM1Y) -- an older book that focuses on how to nurture innovation within large corporations
+* ["Jobs to be done"](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca) -- What does the customer *really* want?
+* [“The Critical Path”](http://5by5.tv/criticalpath) - a podcast the delves into the topic of What It Means to be Great.
+* ["Asymcar"](http://5by5.tv/asymcar) - a podcast on the "jobs to be done" by personal mobility options
