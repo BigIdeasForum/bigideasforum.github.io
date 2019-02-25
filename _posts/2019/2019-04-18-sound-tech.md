@@ -2,7 +2,7 @@
 layout: post
 title:  Sound as Technology
 subtitle: Its Impact On Human Experience
-date:   2019-03-21 19:00:00
+date:   2019-04-18 19:00:00
 categories: Torben
 tags: [Future, Other Technologies]
 bigimg: /img/sound-tech.jpg
