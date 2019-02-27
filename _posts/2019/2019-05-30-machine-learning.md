@@ -7,9 +7,7 @@ categories: Future Group
 tags: [Future, Artificial Intelligence]
 bigimg: /img/machine-learning.jpg
 ---
-FUTURE EVENT
-
-We have heard of Watson, the computer that beat the two Jeopardy masters, Deep Blue that beat Kasparov in chess, AlphaGo that beat the Go world champion.
+FUTURE EVENT -- We have heard of Watson, the computer that beat the two Jeopardy masters, Deep Blue that beat Kasparov in chess, AlphaGo that beat the Go world champion.
 
 How far has this field come? What does it mean that the machines are learning?
 

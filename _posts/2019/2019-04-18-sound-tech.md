@@ -8,9 +8,7 @@ tags: [Future, Other Technologies]
 bigimg: /img/sound-tech.jpg
 ---
 
-FUTURE EVENT
-
-From the moment we are born, we are so immersed in a world of sound that it is part of our very existence. We take it for granted and don’t think of it as a “field of technology.” Sure, there’s ultrasound diagnostics and sonars, but really, what else?
+FUTURE EVENT -- From the moment we are born, we are so immersed in a world of sound that it is part of our very existence. We take it for granted and don’t think of it as a “field of technology.” Sure, there’s ultrasound diagnostics and sonars, but really, what else?
 
 Actually, there are very few scientific areas where the audible/sub-audible sound is not used!
 
