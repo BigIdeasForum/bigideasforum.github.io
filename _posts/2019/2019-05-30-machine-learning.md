@@ -3,7 +3,7 @@ layout: post
 title:  Machine Learning
 subtitle: Out of the Lab and Into Our Lives
 date:   2019-05-30 19:00:00
-categories: Future Group
+categories: Future
 tags: [Future, Artificial Intelligence]
 bigimg: /img/machine-learning.jpg
 ---
