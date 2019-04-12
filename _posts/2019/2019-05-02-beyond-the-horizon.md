@@ -1,6 +1,6 @@
 ---
 title:  Beyond the Horizon
-subtitle: What does the future hold?
+subtitle: What Does The Future Hold?
 date:   2019-05-02 19:00:00
 categories: Future, Torben, Bob
 tags: [Future, Other Technologies]
