@@ -5,7 +5,7 @@ header: true
 permalink: /calendar/
 ---
 
-If you'd like to add BigIdeasForum calendar events to **your** calendar, subscribe to this URL from your calendar app: [BIF Calendar](https://calendar.google.com/calendar/ical/bigideasforum%40gmail.com/public/basic.ics)
+If you'd like to add **Big Ideas Forum** calendar events to **your** calendar, subscribe to this URL from your calendar app: [BIF Calendar](https://calendar.google.com/calendar/ical/bigideasforum%40gmail.com/public/basic.ics)
 
 Here's a calendar of the upcoming events.
 
