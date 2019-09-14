@@ -18,4 +18,4 @@ Your voice is important in this debate.
 
 ### Follow-Up
 
-* [Presentation](/assets/present/2019/machine_learning.pdf) (PDF) 
+* [Presentation](/assets/present/2019/machine_learning.pdf) (PDF)
