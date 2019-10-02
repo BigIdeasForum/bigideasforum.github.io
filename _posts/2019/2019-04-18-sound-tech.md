@@ -16,8 +16,6 @@ Tonight, we will take you on an unexpected adventure into incredible ways sound 
 
 You will be fascinated - don’t miss out on this event.
 
-
 ### Follow-Up
 
 * [Presentation](/assets/present/2019/sound-tech.pdf) (PDF)
-

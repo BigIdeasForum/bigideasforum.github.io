@@ -15,7 +15,6 @@ We will take a look at one of the fasted evolving fields in artificial intellige
 
 Your voice is important in this debate.
 
-
 ### Follow-Up
 
 * [Presentation](/assets/present/2019/machine_learning.pdf) (PDF)

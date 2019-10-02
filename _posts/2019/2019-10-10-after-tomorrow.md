@@ -12,7 +12,7 @@ bigimg: /img/horizon.jpg
 
 We are not allowed to share the content of the program on our website, so your only chance to enjoy this presentation and get a glimpse of the future, be challenged, thrilled, provoked, outraged and more, is to be at Big Ideas Forum tonight. Don’t miss it.
 
-### Coming Up...
+### Coming Up
 
 * October 24: Longevity
 * November 7: Living on Mars (part1)

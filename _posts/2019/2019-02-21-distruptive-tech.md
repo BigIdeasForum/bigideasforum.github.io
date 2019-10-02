@@ -20,7 +20,6 @@ Presenter: Torben
 
 * [Presentation](/assets/present/2019/disruptive-tech.pdf) (PDF)
 
-
 Other references
 
 * [“Innovator's Dilemma: When New Technologies Cause Great Firms to Fail”](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) -- the book referenced in the talk.
