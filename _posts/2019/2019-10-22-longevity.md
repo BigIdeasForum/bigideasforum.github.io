@@ -13,6 +13,14 @@ We will take a look at some of the aspects of this fascinating issue, where answ
 
 Join us and weigh in on the matter. 
 
+### Follow-Up
+
+* [Presentation](/assets/present/2019/longevity.pdf) (PDF)
+
+* Viola added that those interested in following the field of Longevity, may follow Dr. Bob Martin (Phoenix) on Facebook and  [doctorbob.com](http://doctorbob.com).  He also has a radioshow on Longevity every Saturday from 10 AM to 12 Noon and every Sunday from 5 - 8 PM. The station is AM 550 -  KFYI
+* an article about the [original research into chronological vs biological age](
+https://getpocket.com/explore/item/how-to-reverse-aging-and-become-whoever-you-want-to-be)
+
 ### Coming Up...
 
 * November 7: Living on Mars (part1)
