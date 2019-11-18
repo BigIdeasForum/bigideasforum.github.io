@@ -18,3 +18,7 @@ We will look at this evidence - while taking time to share observations and some
 Join us for a fun, eyeopening, and undoubtedly lively evening.
 
 Presenter: Torben
+
+### Coming Up...
+
+* December 19: Tech Slam
