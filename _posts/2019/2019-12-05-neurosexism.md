@@ -2,7 +2,7 @@
 title:  Neurosexism
 subtitle: It’s Not All Pink and Blue
 date:   2019-12-05 18:30:00
-categories: ??
+categories: Torben
 tags: [Other Technologies]
 bigimg: /img/neurosexism.jpg
 ---
