@@ -4,7 +4,7 @@ title:  Cyber Crime
 subtitle: Is Everything Being Hacked?
 date:   2018-11-01 19:00:00
 categories: Gary
-tags: [Social Issues]
+tags: [Social Issues, Privacy]
 bigimg: /img/cyber-crime.jpg
 ---
 

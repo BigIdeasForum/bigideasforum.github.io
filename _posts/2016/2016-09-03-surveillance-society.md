@@ -4,7 +4,7 @@ title:  Surveillance Society
 subtitle: An Eye in the Sky
 date:   2016-09-03 19:00:00
 categories: Gary
-tags: [Social Issues]
+tags: [Social Issues, Privacy]
 bigimg: /img/surveillance-society1.jpg
 ---
 

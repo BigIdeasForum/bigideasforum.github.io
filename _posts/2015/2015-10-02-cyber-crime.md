@@ -4,7 +4,7 @@ title:  Cyber Crime
 subtitle: Everything Will Be Hacked
 date:   2015-10-02 19:00:00
 categories: Gary
-tags: [Social Issues]
+tags: [Social Issues, Privacy]
 bigimg: /img/cyber-crime.jpg
 ---
 
