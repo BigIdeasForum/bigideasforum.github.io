@@ -22,3 +22,5 @@ Presenter: Torben
 ### Coming Up...
 
 * December 19: Tech Slam
+* January 9: The Future of Water
+* January 23: Financial Literacy
