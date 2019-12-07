@@ -19,6 +19,10 @@ Join us for a fun, eyeopening, and undoubtedly lively evening.
 
 Presenter: Torben
 
+### Follow-Up
+
+* [Presentation](/assets/present/2019/neurosexism.pdf) (PDF)
+
 ### Coming Up...
 
 * December 19: Tech Slam
