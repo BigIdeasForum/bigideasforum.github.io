@@ -19,5 +19,5 @@ Presenter: Torben
 ### Coming Up...
 
 * January 23: Financial Literacy
-* February 6: Social Media
-* February 20: Tech Slam
+* February 6: Tech Slam
+* February 20: Social Media
