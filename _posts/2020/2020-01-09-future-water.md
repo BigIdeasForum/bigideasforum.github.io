@@ -16,6 +16,11 @@ We will discuss these and other aspects of the future of water.  Join us for a d
 
 Presenter: Torben
 
+### Follow-Up
+
+* [Presentation](/assets/present/2020/future_of_water.pdf) (PDF)
+
+
 ### Coming Up...
 
 * January 23: Financial Literacy
