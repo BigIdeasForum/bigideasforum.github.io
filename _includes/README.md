@@ -10,3 +10,6 @@ To serve locally:
 
 > bundle exec jekyll serve
 
+To generate pages from _drafts/
+
+> bundle exec jekyll serve --drafts
