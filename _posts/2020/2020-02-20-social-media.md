@@ -14,6 +14,12 @@ In 90 minutes, we will try to cover a lot of ground. Spoiler alert: yes this wil
 
 Presenter: Mark
 
+### Follow-Up
+
+* [Presentation](/assets/present/2020/regulation_internet_content.pdf) (PDF)
+* [Article from New York Times re. News Literacy](/assets/present/2020/news-literacy.pdf) (PDF)
+
+
 ### Coming Up...
 
 * March 5: Why Biodiversity Matters
