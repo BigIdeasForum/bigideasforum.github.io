@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why Biodiversity Matters
-subtitle: Everything is Related
+subtitle: Everything is Connected
 date:   2020-03-05 18:30:00
 categories: Pam
 tags: [Environment]
