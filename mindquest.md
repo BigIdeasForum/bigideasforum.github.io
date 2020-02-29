@@ -1,5 +1,5 @@
 ---
-title: MindQuest Event
+title: MindQuest
 layout: page
 bigimg: /img/mindquest.jpg
 permalink: /mindquest/
