@@ -14,10 +14,10 @@ The question is therefore: Does it matter? Can and should we do something about 
 
 Join the discussion about one of the critical issues of our times.
 
-Presenter: Pam
+Presenter: Pam  
 
 ### Coming Up...
 
-* March 19: Do You Trust Your Computer
+* March 19: Climate Change
 * April 2: Corporate Social Responsibility
 * April 16: Ethical Dilemmas 
