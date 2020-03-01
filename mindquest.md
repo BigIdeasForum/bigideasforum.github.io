@@ -4,7 +4,7 @@ layout: page
 bigimg: /img/mindquest.jpg
 permalink: /mindquest/
 ---
-## Nature’s Medicine Cabinet
+### Nature’s Medicine Cabinet
 
 Thursday, May 7 at 6:30 to 8:00 pm
 
