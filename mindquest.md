@@ -8,7 +8,7 @@ permalink: /mindquest/
 
 Thursday, May 7 at 6:30 to 8:00 pm
 
-Event is FREE; registration not needed.
+Event is FREE; registration not needed.  
 Location: Anthem Civic Building
 3701 W Anthem Way (at the SE corner of N Venture Dr.)
 
