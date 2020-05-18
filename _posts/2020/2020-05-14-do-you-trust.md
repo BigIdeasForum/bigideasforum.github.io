@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Do You Trust Your Computer
+title:  Do You Trust This Computer
 subtitle: How Worried Should We Be?
 date:   2020-05-14 18:30:00
 categories: MarkD
