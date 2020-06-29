@@ -6,7 +6,6 @@ date:   2020-06-25 18:30:00
 categories: Alex
 tags: [MindQuest]
 bigimg: /img/mindquest.jpg
-permalink: /mindquest/
 ---
 
 Western medicine has opened up to the overwhelming evidence that natural products have significant medical benefits; among them are overall wellness, boosted immune system (incl. protection against viruses), improved mood and mental health, better sleep, and reduction in stress levels.
