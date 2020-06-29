@@ -8,7 +8,6 @@ tags: [MindQuest]
 bigimg: /img/mindquest.jpg
 permalink: /mindquest/
 ---
-### Nature’s Medicine Cabinet
 
 Western medicine has opened up to the overwhelming evidence that natural products have significant medical benefits; among them are overall wellness, boosted immune system (incl. protection against viruses), improved mood and mental health, better sleep, and reduction in stress levels.
 With the help of technology, the active ingredients in these products are now available in pure form like essential oils. 
