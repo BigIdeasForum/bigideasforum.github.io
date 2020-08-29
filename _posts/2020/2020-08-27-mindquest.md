@@ -1,6 +1,6 @@
 ---
 title: MindQuest
-subtitle: Financial Literacy II: Stock Dividends & Stock Buybacks
+subtitle: Financial Literacy II -- Stock Dividends & Stock Buybacks
 layout: page
 date:   2020-08-27 18:30:00
 categories: Bob
