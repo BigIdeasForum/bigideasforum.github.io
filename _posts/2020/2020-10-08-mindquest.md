@@ -20,7 +20,7 @@ We are all familiar with the signs of a warming planet: Violent weather, wildfir
 
 So, the natural questions are: What should/can we do about it? Will we reach a tipping point?   
  
-In Thursday night’s presentation, we focus on these assumptions and questions. Colorado-based (Anthem snowbird) geologist Allen (Al) Heinrich will 
+In Thursday night’s presentation, we focus on these assumptions and questions. Colorado-based (Anthem snowbird) geologist Allen (Al) Heinrich will:
 
 1. walk us through the above points, 
 2. explain how we can make sense of “climate data/observations/predictions,” and 
@@ -33,3 +33,7 @@ A lot of this information will be new to most observers, so don’t miss this ev
 Whichever way it goes, you’ll have to live with the weather . . . and you want to have something to keep talking about.  
 
 We hope to see you there.
+
+### Follow-Up  
+
+* [Zoom Recording](https://drive.google.com/file/d/1hxWEijlx3ux21cV_-d1roMRIqOZbCfxe/view?usp=sharing) (Video) 
