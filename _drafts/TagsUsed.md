@@ -8,3 +8,6 @@ Other Technologies
 Other/Tech Slams
 Robots
 Social Issues
+Privacy
+Food
+

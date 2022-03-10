@@ -16,6 +16,7 @@ We have the following events scheduled for the Spring season of the MindQuest se
 3) APRIL 8: TechSlam - 5-7 min presentations of things you want to share 
 
 4) MAY 13: Nuclear energy - Clean energy, medical use, and weapons applications 
+
 ### Follow-Up  
 
 * January 14: [Bitcoin presentation Zoom recording](https://drive.google.com/open?id=1efJE9oNLJf6dBAm7o3CF18xqg48-0Xkv) (Video) 

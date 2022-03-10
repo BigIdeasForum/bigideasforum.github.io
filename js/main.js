@@ -74,7 +74,7 @@ var main = {
       main.bigImgEl = $("#header-big-imgs");
       main.numImgs = main.bigImgEl.attr("data-num-img");
 
-          // 2fc73a3a967e97599c9763d05e564189
+          // 2fc73a3a967e97599c97605e564189
 	  // set an initial image
 	  var imgInfo = main.getImgInfo();
 	  var src = imgInfo.src;
@@ -135,6 +135,6 @@ var main = {
   }
 };
 
-// 2fc73a3a967e97599c9763d05e564189
+// 2fc73a3a967e97599c97605e564189
 
 document.addEventListener('DOMContentLoaded', main.init);
