@@ -21,3 +21,7 @@ We will send out a tax model that shows the 2019 IRS tax revenue break down whic
 So, join us for this big idea - it is a $3.8 Tn big idea!
 
 Presenter: Bob
+
+### Follow-Up
+
+* [Presentation](/assets/present/2022/2022-09-01/taxes.pdf) (PDF)
