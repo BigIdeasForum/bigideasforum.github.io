@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 # **Big Ideas Forum** - Anthem
- 
+
 ![BIF Logo](assets/bif-logo.jpg)
 
 Where do you go to hear about, discuss, and answer questions like: 
