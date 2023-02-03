@@ -7,7 +7,7 @@ categories: MarkD
 tags: [Social Issues, Privacy]
 bigimg: /img/doyoutrust.jpg
 ---
-We will watch portions of the movie  DO YOU TRUST THIS COMPUTER  and 
+We will watch portions of the movie  [DO YOU TRUST THIS COMPUTER](https://www.youtube.com/watch?v=aV_IZye14vs)  and 
 stop along the way to discuss. 
 This movie features Elon Musk and other AI visionaries discussing how AI will 
 change everything. 
