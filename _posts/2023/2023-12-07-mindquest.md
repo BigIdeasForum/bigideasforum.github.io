@@ -4,10 +4,10 @@ subtitle: Social Inequality
 layout: page
 date:   2023-12-07 16:30:00
 tags: [MindQuest]
-bigimg: /img/mindquest.jpg
+bigimg: /img/social-inequality.jpg
 ---
 
-On this afternoon, MindQuest will start with “your subjects”:  Ideas and questions on subjects that has captured YOUR imagination - any “weird, unexplainable” things you have come across recently (not including Congress in Wash DC). That could be books, documentaries, articles, even movies, etc. that you think we should all know about. As we've said before, this does not require formal presentations (slide, speeches, etc.).
+On the afternoon of December 7 (4:30 pm), MindQuest will start with “your subjects”:  Ideas and questions on subjects that has captured YOUR imagination - any “weird, unexplainable” things you have come across recently (not including Congress in Wash DC). That could be books, documentaries, articles, even movies, etc. that you think we should all know about. As we've said before, this does not require formal presentations (slide, speeches, etc.).
 So, put your thinking caps on!
 
 Afterwards, the main subject of the event is “**Social inequality.**”
