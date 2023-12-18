@@ -20,3 +20,9 @@ We will try to accomplish three things:
 This subject is huge - and we are prepared for the situation that we will NOT have enough time to cover what we want to cover - but then we will defer those part of the subject to the first meeting in January. Mark your calendar for January 4.
 
 So, again, bring your ideas/questions/observations to the attention of the Forum and help keep it as lively and dynamic as it always has been.
+
+### Follow-Up
+
+Torben's presentation on ["Social Inequality"](/assets/present/2023/2023-12-07/inequality.pdf).
+
+Bob's presentation on ["Wealth Inequality"](/assets/present/2023/2023-12-07/wealth-inequality.pdf).
