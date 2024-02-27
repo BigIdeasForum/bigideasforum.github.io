@@ -1,6 +1,5 @@
 ---
-title: MindQuest
-subtitle: Social Inequality
+title: Social Inequality
 layout: page
 date:   2023-12-07 16:30:00
 tags: [MindQuest]
