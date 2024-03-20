@@ -5,6 +5,7 @@ published: true
 header: true 
 permalink: /archive/
 years:
+- 2024
 - 2023
 - 2022
 - 2021
