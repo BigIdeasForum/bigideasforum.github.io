@@ -3,7 +3,7 @@ title: Music and the Mind
 layout: page
 date:   2024-06-06 16:30:00
 tags: [MindQuest]
-bigimg: /img/music-mind.png
+bigimg: /img/st-sh.png
 ---
 
 We will discuss this subject based on the documentary film: [Alive Inside](https://www.youtube.com/watch?v=x9IHUPamCB4). 
