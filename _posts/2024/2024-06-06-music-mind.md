@@ -1,7 +1,7 @@
 ---
 title: Music and the Mind
 layout: page
-date:   2024-05-02 16:30:00
+date:   2024-06-06 16:30:00
 tags: [MindQuest]
 bigimg: /img/music-mind.png
 ---
