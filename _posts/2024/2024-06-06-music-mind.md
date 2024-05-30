@@ -12,6 +12,6 @@ We will discuss this subject based on the documentary film: [Alive Inside](https
 
 Those who have suggested this movie agree that the documentary presents the subject better than we in Big Ideas could do ourselves (and, as you know, that takes a lot 😆).  The program runs 1 hr 17 min; since we don’t just want to go home afterwards, we are flexible this time with when we finish. The purpose is, as always, to discuss how we can use what we learn in the documentary in our dealings with people with memory decline - Kleenex will be available!
 
-Mind you (no pun intended): It is estimated that for every person with dementia (that is about 10 million people in USA), 4 other people are being directly and indirecytly affected by the disease - so, we are talking about a lot of people (and, sadly, a rapidly growing group). on’t miss this opportunity to familiarize yourself with the issues. None of us knows when we might be affected!
+Mind you (no pun intended): It is estimated that for every person with dementia (that is about 10 million people in USA), 4 other people are being directly and indirectly affected by the disease - so, we are talking about a lot of people (and, sadly, a rapidly growing group). Don’t miss this opportunity to familiarize yourself with the issues. None of us knows when we might be affected!
 
 Therefore, there is extra meaning to our “slogan”: Bring friends and neighbors! 😎
