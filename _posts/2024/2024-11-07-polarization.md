@@ -1,6 +1,6 @@
 ---
 title: Polarization, The Media, and The Public
-subtitle: 
+subtitle: From Echo Chambers to Common Ground
 layout: page
 categories: Torben
 date:   2024-11-07 16:30:00
