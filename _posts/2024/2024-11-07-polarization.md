@@ -12,6 +12,10 @@ We have just been through a media storm during the general election; at times it
 
 As with many subjects about “social” impacts, there are political undertones behind this one too, but we have always managed to steer the debates in the direction of “understanding the issues” and how they "impact us" one way or another - rather than discussing what should be done! - and we think this will be the case this afternoon, too.
 
+### Follow-Up
+
+- Presentation on ["Polarization"](/assets/present/2024/2024-11-07/polarization.pdf) (Torben)
+- Presentation on ["Media Bias"](/assets/present/2024/2024-11-07/media-bias.pdf) (Bob)
 
 ### Coming Up...
 
