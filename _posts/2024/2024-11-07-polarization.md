@@ -1,7 +1,7 @@
 ---
 title: Polarization, The Media, and The Public
 subtitle: From Echo Chambers to Common Ground
-layout: page
+layout: post
 categories: Torben
 date:   2024-11-07 16:30:00
 tags: [MindQuest, Social Issues]

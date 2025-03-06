@@ -1,7 +1,7 @@
 ---
 title: MindQuest
 subtitle: 2021 Scheduled Events
-layout: page
+layout: post
 date:   2021-01-01 18:30:00
 categories: 
 tags: [MindQuest]

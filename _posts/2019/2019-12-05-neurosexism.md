@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  Neurosexism
 subtitle: It’s Not All Pink and Blue
 date:   2019-12-05 18:30:00

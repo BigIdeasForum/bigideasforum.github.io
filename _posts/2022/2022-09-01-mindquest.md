@@ -1,7 +1,7 @@
 ---
 title: MindQuest
 subtitle: How to Overhaul the US Tax System
-layout: page
+layout: post
 date:   2022-09-01 16:30:00
 categories: Bob
 tags: [MindQuest]

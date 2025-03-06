@@ -1,6 +1,6 @@
 ---
 title: Social Inequality
-layout: page
+layout: post
 date:   2023-12-07 16:30:00
 tags: [MindQuest, Social Issues]
 bigimg: /img/social-inequality.jpg

@@ -1,6 +1,6 @@
 ---
 title: Music and the Mind
-layout: page
+layout: post
 date:   2024-06-06 16:30:00
 tags: [MindQuest]
 bigimg: /img/music-mind.jpg

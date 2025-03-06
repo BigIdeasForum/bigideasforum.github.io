@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  Beyond the Horizon
 subtitle: What Does The Future Hold?
 date:   2019-05-02 19:00:00

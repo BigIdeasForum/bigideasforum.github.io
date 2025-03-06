@@ -1,7 +1,7 @@
 ---
 title: MindQuest
 subtitle: Nature’s Medicine Cabinet
-layout: page
+layout: post
 date:   2020-06-25 18:30:00
 categories: Alex
 tags: [MindQuest]

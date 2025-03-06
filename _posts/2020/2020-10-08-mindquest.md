@@ -1,7 +1,7 @@
 ---
 title: MindQuest
 subtitle: Climate & Global Warming - a geologist’s viewpoint
-layout: page
+layout: post
 date:   2020-10-08 18:30:00
 categories: Al
 tags: [MindQuest]
