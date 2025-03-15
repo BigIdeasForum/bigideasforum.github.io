@@ -6,7 +6,7 @@ permalink: /resources/
 
 ### Accelerating Technology
 
-* Ray Kurzweil: [“The Singularity Is Near”](https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889/) 
+* Ray Kurzweil: [“The Singularity Is Near”](https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889/) (2006)  and [“The Singularity Is Nearer"](https://www.amazon.com/Singularity-Nearer-Ray-Kurzweil/dp/0399562761/132-2442732-8367862) (2024)
 * Stuart Armstrong: [“Smarter Than Us - The Rise of Machine Intelligence”](https://www.amazon.com/Smarter-Than-Us-Machine-Intelligence/dp/1939311098/)
 * Michio Kaku: [“The Future of The Mind”](https://www.amazon.com/Future-Mind-Scientific-Understand-Enhance/dp/0307473341/) 
 * Jim Mellon: [“Fast Forward: The Technologies and Companies Shaping Our Future”](https://www.amazon.com/Fast-Forward-Technologies-Companies-Shaping/dp/0993047807/)
