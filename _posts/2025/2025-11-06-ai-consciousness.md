@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Agentic Systems
-subtitle: Exploring the Dynamics of Autonomous Entities in Modern Technology
+title:  Intelligence in AI Systems
+subtitle: Can AI truly think and be conscious?
 date:   2025-11-06 16:30:00
 categories:  Torben
 tags: [Artificial Intelligence]
