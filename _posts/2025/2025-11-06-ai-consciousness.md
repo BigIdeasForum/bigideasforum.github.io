@@ -14,5 +14,6 @@ Join us for a fascinating and accessible discussion about what these development
 
 ### Follow-Up
 
-* Presentation on [Intelligent AI?](https://app.tana.inc/shared/are-ai-systems-intelligent-do-they-possess-consciousness/MEpZR3B1WXFYaDJJL0lYelA4UW1VLTE0RA==?wsid=hy8J-5GhUEnW) by Torben
+* Presentation on [Intelligent AI?](https://app.tana.inc/shared/are-ai-systems-intelligent-do-they-possess-consciousness/MEpZR3B1WXFYaDJJL0lYelA4UW1VLTE0RA==?wsid=hy8J-5GhUEnW) by Torben (tips on [navigating the presentation outline](https://tana.inc/outliner))
+    * For a quick guide on navigating the presentation outline, [see this video](https://www.youtube.com/watch?v=sMFfDxQ2CO4)
 
