@@ -5,6 +5,12 @@ header: true
 permalink: /calendar/
 ---
 
+# Future Events - 2025
+
+## Dec 4: TechSlam
+
+energy, water, climate+ follow up on the past events
+
 # Future Events - 2026
 
 ## Jan 8 - Tech Slam - 
