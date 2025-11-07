@@ -18,6 +18,7 @@ Presentation on [Intelligence in AI](https://app.tana.inc/shared/are-ai-systems-
     
 * This presentation was created in and presented from [Tana](https://tana.inc).  For a quick guide on navigating the presentation outline, [see this page](https://tana.inc/articles/intro-to-the-outline-editor)
 * Also, be sure to check out the [research notes](https://app.tana.inc/shared/reference-material/MEpZR3B1WXFYaDJJL05MR2VxbW1wakR4dQ==?wsid=uwfTnALXO9uo) for some more indepth perspectives on the subjects discussed.
+
 ### Coming Up
 
 Check the [Calendar](/calendar)
