@@ -29,4 +29,10 @@ It may sound like a dry subject, but be prepared for an exciting discussion.
 
 ## Apr 2 - We are not special
 
+Humans and animals have a lot in common
+
 In a time of extraordinary technological developments, it’s easy to think that humans are special. We haven’t even found any sign of life outside the Third Rock from the Sun. But a closer look, starting with Jane Goodall’s discoveries in 1960 that chimpanzees use tools and continuing up until today, many aspects of the natural world prove that even though we do not need to feel demoted, we are not alone in possessing “human” qualities, be it intellectual, behavioral, and emotional. Join us in opening our eyes to a wider perspective of existence. 
+
+## May 7: TBD (possibly "AI and Psychosis”)
+
+## June 4: TBD (possibly: "The impact of Nicola Tesla")
