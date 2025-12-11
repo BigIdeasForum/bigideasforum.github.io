@@ -5,12 +5,6 @@ header: true
 permalink: /calendar/
 ---
 
-# Future Events - 2025
-
-## Dec 4: TechSlam
-
-energy, water, climate+ follow up on the past events
-
 # Future Events - 2026
 
 ## Jan 8 - Tech Slam - 
@@ -19,18 +13,16 @@ Will focus on AI follow-up. We will take the opportunity to revisit some of the 
 
 ## Feb 5 - The life and Impact of Nicola Tesla
 
-## Mar 5 - "Red Hat" - The Psychology of Disagreeing
+The life of Nikola Tesla, one of the most influential physicists and innovators of the 20th Century. We will look at some of his works that are the foundation of many cutting-edge technologies and products a hundred years later. 
 
-## Apr 2 - Viewpoint theory
+## Mar 5 - Viewpoint Theory & 'Red Hat’
 
-We all have viewpoints, and without a doubt, our own ones are the best. What’s there to discuss? Do we really need a theory on that?
-Well, there’s a lot to understand about how viewpoints develop and how we deal with cognitive dissonance. Based on Dorothy E. Smith’s “Viewpoint theory” and the recently discussed “Red Hat” Cognitive Dissonance, we will discuss how much we all would benefit from understanding the processes that touch every single one of us.
-It may sound like a dry subject, but be prepared for an exciting discussion.
+We’ll delve into Dorothy E. Smith’s theory about how our place in society forms and influences our perspectives and lives. We'll follow up by looking at the so-called 'Red Hat' dissonance, about why the public dialogue has become dysfunctional in recent years and what we can do about it. There are important lessons for everyone
 
-## May 7 - We are not special
+## Apr 2 - TBD
 
-Humans and animals have a lot in common
+## May 7 - Humans are not special
 
-In a time of extraordinary technological developments, it’s easy to think that humans are special. We haven’t even found any sign of life outside the Third Rock from the Sun. But a closer look, starting with Jane Goodall’s discoveries in 1960 that chimpanzees use tools and continuing up until today, many aspects of the natural world prove that even though we do not need to feel demoted, we are not alone in possessing “human” qualities, be it intellectual, behavioral, and emotional. Join us in opening our eyes to a wider perspective of existence. 
+In this presentation, we'll look at how research —from Jane Goodall’s work to today’s intelligence research—has reveal that many animals have characters and capacities similar to humans, and what that means for our perspectives on life. 
 
-## June 4: TBD (possibly "AI and Psychosis”)
+## June 4: TBD
