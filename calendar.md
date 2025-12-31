@@ -7,7 +7,7 @@ permalink: /calendar/
 
 # Future Events - 2026
 
-## Feb 5 - The life and Impact of Nicola Tesla
+## Feb 5 - The life and Impact of Nikola Tesla
 
 The life of Nikola Tesla, one of the most influential physicists and innovators of the 20th Century. We will look at some of his works that are the foundation of many cutting-edge technologies and products a hundred years later. 
 
