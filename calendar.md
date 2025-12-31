@@ -7,10 +7,6 @@ permalink: /calendar/
 
 # Future Events - 2026
 
-## Jan 8 - Tech Slam - 
-
-Will focus on AI follow-up. We will take the opportunity to revisit some of the subjects we discussed in October and November about AI and where it is going. Even if you were not present, you will benefit from what will be an interesting catch-up. And as usual, this event is also one where other subjects can be brought up, shared, and discussed.  
-
 ## Feb 5 - The life and Impact of Nicola Tesla
 
 The life of Nikola Tesla, one of the most influential physicists and innovators of the 20th Century. We will look at some of his works that are the foundation of many cutting-edge technologies and products a hundred years later. 
