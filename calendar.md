@@ -11,7 +11,9 @@ permalink: /calendar/
 
 We’ll delve into Dorothy E. Smith’s theory about how our place in society forms and influences our perspectives and lives. We'll follow up by looking at the so-called 'Red Hat' dissonance, about why the public dialogue has become dysfunctional in recent years and what we can do about it. There are important lessons for everyone.
 
-## Apr 2 - TBD
+## Apr 2 - Tipping Points
+
+Is global warming out of control? Alternative energy projects are flourishing, EVs are gaining ground, and treaties are signed. Is all that enough to save the planet, or are we fooling ourselves? In other words, are the battles already lost?
 
 ## May 7 - Humans are not special
 
