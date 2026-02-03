@@ -15,8 +15,9 @@ We’ll delve into Dorothy E. Smith’s theory about how our place in society fo
 
 Is global warming out of control? Alternative energy projects are flourishing, EVs are gaining ground, and treaties are signed. Is all that enough to save the planet, or are we fooling ourselves? In other words, are the battles already lost?
 
-## May 7 - Humans are not special
+## May 7 - The Bad Future
 
-In this presentation, we'll look at how research—-from Jane Goodall’s work to today’s intelligence research—-has revealed that many animals have characters and capacities similar to humans, and what that means for our perspectives on life. 
+One of the world's leading futurists has outlined the challenges of the future as he sees them, be it social structure/democracy, culture, trust/knowledge, or climate. We will discuss what—if anything—can be done about these challenges - when and by whom?
+
 
 ## June 4: TBD
