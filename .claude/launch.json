@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Jekyll Dev Server",
+      "runtimeExecutable": "/Users/brant/.rubies/ruby-3.4.9/bin/bundle",
+      "runtimeArgs": ["exec", "jekyll", "serve", "--livereload"],
+      "port": 4000
+    }
+  ]
+}
