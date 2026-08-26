@@ -7,10 +7,14 @@ permalink: /calendar/
 
 # Future Events - 2026
 
-## June 4
+## Oct 1: 
 
-AGI/AI Agencies
+The Wisdom of Crowds - Part 1
 
-## Sept 3
+## Nov 5: 
 
-Tech Slam (start of the Fall season)
+The Wisdom of Crowds - Part 2
+
+## Dec 3: 
+
+Perception of Reality 
