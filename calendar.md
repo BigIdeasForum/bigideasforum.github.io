@@ -7,13 +7,10 @@ permalink: /calendar/
 
 # Future Events - 2026
 
-## Oct 1: 
-
-The Wisdom of Crowds - Part 1
 
 ## Nov 5: 
 
-The Wisdom of Crowds - Part 2
+The Wisdom of Crowds - Part 2 - The Crowds
 
 ## Dec 3: 
 

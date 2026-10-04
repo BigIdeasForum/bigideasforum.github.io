@@ -1,0 +1,6 @@
+# Local dev overrides. Use with:
+#   bundle exec jekyll serve --config _config.yml,dev-config.yml
+# Builds go outside Dropbox so ~730 MB of PDFs/MP3s aren't re-copied and re-synced on every rebuild.
+destination: /Users/brant/jekyll-build/bigideasforum/_site
+incremental: true
+url: "http://localhost:4000"
